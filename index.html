@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BD Quiz Arena — বাংলাদেশ কুইজ অ্যারেনা</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ============ HEADER ============ -->
+  <header id="topbar">
+    <div class="brand">
+      <span class="brand-icon">🏟️</span>
+      <span class="brand-name" data-i18n="appName">BD Quiz Arena</span>
+    </div>
+    <div class="top-actions">
+      <div id="xpBadge" class="xp-badge" title="XP">
+        <span class="xp-level" id="xpLevel">1</span>
+        <div class="xp-bar"><div id="xpFill"></div></div>
+      </div>
+      <button id="btnStats" class="icon-btn" data-i18n-aria="stats" aria-label="Stats">📊</button>
+      <button id="btnLang" class="lang-btn">বাং</button>
+    </div>
+  </header>
+
+  <!-- ============ HOME ============ -->
+  <main id="screen-home" class="screen active">
+    <section class="hero">
+      <h1 data-i18n="tagline">Test your Bangladesh knowledge</h1>
+      <p class="sub" data-i18n="taglineSub">300+ bilingual questions · 8 categories · 4 game modes</p>
+    </section>
+
+    <section class="panel">
+      <h2 data-i18n="chooseMode">Choose a mode</h2>
+      <div class="mode-grid">
+        <button class="mode-card" data-mode="quick">
+          <span class="mode-icon">⚡</span>
+          <span class="mode-title" data-i18n="modeQuick">Quick Play</span>
+          <span class="mode-desc" data-i18n="modeQuickDesc">10 random questions</span>
+        </button>
+        <button class="mode-card" data-mode="category">
+          <span class="mode-icon">🎯</span>
+          <span class="mode-title" data-i18n="modeCategory">Category Challenge</span>
+          <span class="mode-desc" data-i18n="modeCategoryDesc">10 from one category</span>
+        </button>
+        <button class="mode-card" data-mode="lightning">
+          <span class="mode-icon">🌩️</span>
+          <span class="mode-title" data-i18n="modeLightning">Lightning</span>
+          <span class="mode-desc" data-i18n="modeLightningDesc">60-second blitz</span>
+        </button>
+        <button class="mode-card" data-mode="marathon">
+          <span class="mode-icon">🏃</span>
+          <span class="mode-title" data-i18n="modeMarathon">Marathon</span>
+          <span class="mode-desc" data-i18n="modeMarathonDesc">Until 3 wrong</span>
+        </button>
+      </div>
+      <div id="categoryPicker" class="category-picker hidden">
+        <h3 data-i18n="pickCategory">Pick a category</h3>
+        <div id="categoryGrid" class="cat-grid"></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 data-i18n="settings">Settings</h2>
+      <div class="setting-row">
+        <label data-i18n="qTimer">Question timer</label>
+        <div class="seg" id="timerSeg">
+          <button data-t="15">15s</button>
+          <button data-t="30" class="on">30s</button>
+          <button data-t="60">60s</button>
+        </div>
+      </div>
+      <div class="setting-row">
+        <label data-i18n="sound">Sound</label>
+        <div class="seg" id="soundSeg">
+          <button data-s="on" class="on" data-i18n="on">On</button>
+          <button data-s="off" data-i18n="off">Off</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 data-i18n="bestScores">Best scores</h2>
+      <div id="homeBests" class="bests"><p class="empty" data-i18n="noScoresYet">No games played yet — be the first champion!</p></div>
+    </section>
+  </main>
+
+  <!-- ============ GAME ============ -->
+  <main id="screen-game" class="screen">
+    <div class="game-hud">
+      <div class="hud-left">
+        <span id="hudMode" class="hud-mode"></span>
+        <span id="hudProgress" class="hud-progress"></span>
+      </div>
+      <div class="hud-right">
+        <span id="hudStreak" class="hud-streak hidden">🔥<b id="streakN">0</b></span>
+        <span class="hud-score"><span data-i18n="score">Score</span>: <b id="scoreN">0</b></span>
+      </div>
+    </div>
+    <div class="timer-track"><div id="timerFill"></div></div>
+
+    <div class="q-card">
+      <div class="q-meta">
+        <span id="qCat" class="chip"></span>
+        <span id="qDiff" class="diff"></span>
+      </div>
+      <h2 id="qText" class="q-text"></h2>
+      <div id="optGrid" class="opt-grid"></div>
+      <div class="lifelines">
+        <button id="btnFifty" class="life-btn">🌓 <span data-i18n="fifty">50:50</span></button>
+        <button id="btnSkip" class="life-btn">⏭️ <span data-i18n="skip">Skip</span></button>
+      </div>
+    </div>
+
+    <div id="feedback" class="feedback hidden">
+      <div id="fbTitle" class="fb-title"></div>
+      <div id="fbPoints" class="fb-points"></div>
+      <p id="fbExplain" class="fb-explain"></p>
+      <button id="btnNext" class="primary-btn" data-i18n="next">Next →</button>
+    </div>
+  </main>
+
+  <!-- ============ RESULTS ============ -->
+  <main id="screen-results" class="screen">
+    <div class="result-card">
+      <div id="resEmoji" class="res-emoji">🏆</div>
+      <h2 id="resTitle" data-i18n="roundOver">Round over!</h2>
+      <div id="resNewBest" class="newbest hidden" data-i18n="newBest">🎉 New best score!</div>
+      <div class="res-score"><span id="resScore">0</span></div>
+      <div class="res-grid">
+        <div><b id="resCorrect">0/0</b><span data-i18n="correct">Correct</span></div>
+        <div><b id="resAcc">0%</b><span data-i18n="accuracy">Accuracy</span></div>
+        <div><b id="resStreak">0</b><span data-i18n="bestStreak">Best streak</span></div>
+        <div><b id="resXP">+0</b><span>XP</span></div>
+      </div>
+      <div class="res-actions">
+        <button id="btnAgain" class="primary-btn" data-i18n="playAgain">Play again</button>
+        <button id="btnHome" class="ghost-btn" data-i18n="home">Home</button>
+      </div>
+    </div>
+    <section class="panel">
+      <h2 data-i18n="review">Review answers</h2>
+      <div id="reviewList"></div>
+    </section>
+  </main>
+
+  <!-- ============ STATS ============ -->
+  <main id="screen-stats" class="screen">
+    <div class="panel">
+      <h2 data-i18n="yourStats">Your stats</h2>
+      <div class="res-grid" id="statsGrid"></div>
+      <h3 data-i18n="bestByMode">Best by mode</h3>
+      <div id="statsModes" class="bests"></div>
+      <h3 data-i18n="bestByCat">Best by category</h3>
+      <div id="statsCats" class="bests"></div>
+      <h3 data-i18n="leaderboard">Top scores</h3>
+      <div id="statsBoard" class="bests"></div>
+      <button id="btnStatsBack" class="ghost-btn" data-i18n="back">← Back</button>
+    </div>
+  </main>
+
+</div>
+<script src="js/i18n.js"></script>
+<script src="js/bank.js"></script>
+<script src="js/game.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
