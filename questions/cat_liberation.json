@@ -1,0 +1,312 @@
+{
+  "category": "liberation-war",
+  "category_name": {"en": "Liberation War", "bn": "মুক্তিযুদ্ধ"},
+  "questions": [
+    {
+      "id": "a001",
+      "difficulty": 1,
+      "q": {"en": "On which date is Victory Day (Bijoy Dibosh) of Bangladesh observed?", "bn": "বাংলাদেশের বিজয় দিবস কোন তারিখে পালিত হয়?"},
+      "options": {"en": ["26 March", "21 February", "16 December", "7 March"], "bn": ["২৬ মার্চ", "২১ ফেব্রুয়ারি", "১৬ ডিসেম্বর", "৭ মার্চ"]},
+      "answer": 2,
+      "explain": {"en": "Victory Day marks 16 December 1971, when Pakistani forces surrendered in Dhaka, ending the Liberation War.", "bn": "১৯৭১ সালের ১৬ ডিসেম্বর ঢাকায় পাকিস্তানি বাহিনীর আত্মসমর্পণের মধ্য দিয়ে মুক্তিযুদ্ধের সমাপ্তি ঘটে; এই দিনটিই বিজয় দিবস।"}
+    },
+    {
+      "id": "a002",
+      "difficulty": 1,
+      "q": {"en": "Bangladesh observes Independence Day on which date?", "bn": "বাংলাদেশের স্বাধীনতা দিবস কোন তারিখে পালিত হয়?"},
+      "options": {"en": ["16 December 1971", "26 March 1971", "17 April 1971", "10 April 1971"], "bn": ["১৬ ডিসেম্বর ১৯৭১", "২৬ মার্চ ১৯৭১", "১৭ এপ্রিল ১৯৭১", "১০ এপ্রিল ১৯৭১"]},
+      "answer": 1,
+      "explain": {"en": "Independence was declared in the early hours of 26 March 1971, so the day is observed as Independence Day.", "bn": "১৯৭১ সালের ২৬ মার্চের প্রথম প্রহরে স্বাধীনতা ঘোষণা করা হয়, তাই এই দিন স্বাধীনতা দিবস হিসেবে পালিত হয়।"}
+    },
+    {
+      "id": "a003",
+      "difficulty": 1,
+      "q": {"en": "Who is honoured as the Father of the Nation of Bangladesh?", "bn": "বাংলাদেশের জাতির পিতা হিসেবে কে সম্মানিত?"},
+      "options": {"en": ["Sheikh Mujibur Rahman", "Ziaur Rahman", "Tajuddin Ahmad", "Syed Nazrul Islam"], "bn": ["শেখ মুজিবুর রহমান", "জিয়াউর রহমান", "তাজউদ্দীন আহমদ", "সৈয়দ নজরুল ইসলাম"]},
+      "answer": 0,
+      "explain": {"en": "Sheikh Mujibur Rahman led the independence movement and declared Bangladesh's independence on 26 March 1971.", "bn": "শেখ মুজিবুর রহমান স্বাধীনতা আন্দোলনের নেতৃত্ব দেন এবং ১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতা ঘোষণা করেন।"}
+    },
+    {
+      "id": "a004",
+      "difficulty": 1,
+      "q": {"en": "Where did Sheikh Mujibur Rahman deliver his historic 7 March speech in 1971?", "bn": "১৯৭১ সালে শেখ মুজিবুর রহমান তাঁর ঐতিহাসিক ৭ মার্চের ভাষণ কোথায় দেন?"},
+      "options": {"en": ["Paltan Maidan", "Dhaka University playground", "Racecourse Ground, Dhaka", "Lalbagh Fort"], "bn": ["পল্টন ময়দান", "ঢাকা বিশ্ববিদ্যালয় খেলার মাঠ", "ঢাকার রেসকোর্স ময়দান", "লালবাগ কেল্লা"]},
+      "answer": 2,
+      "explain": {"en": "The 7 March 1971 speech was delivered at the Racecourse Ground in Dhaka, now known as Suhrawardy Udyan.", "bn": "১৯৭১ সালের ৭ মার্চের ভাষণ ঢাকার রেসকোর্স ময়দানে দেওয়া হয়, যা বর্তমানে সোহরাওয়ার্দী উদ্যান নামে পরিচিত।"}
+    },
+    {
+      "id": "a005",
+      "difficulty": 1,
+      "q": {"en": "On which night did the Pakistan Army launch Operation Searchlight?", "bn": "পাকিস্তানি সেনাবাহিনী কোন রাতে অপারেশন সার্চলাইট শুরু করে?"},
+      "options": {"en": ["25 March 1971", "26 March 1971", "7 March 1971", "16 December 1971"], "bn": ["২৫ মার্চ ১৯৭১", "২৬ মার্চ ১৯৭১", "৭ মার্চ ১৯৭১", "১৬ ডিসেম্বর ১৯৭১"]},
+      "answer": 0,
+      "explain": {"en": "Operation Searchlight, the brutal crackdown on unarmed Bengalis, began on the night of 25 March 1971.", "bn": "১৯৭১ সালের ২৫ মার্চ রাতে নিরস্ত্র বাঙালিদের ওপর পাকিস্তানি বাহিনী নৃশংস অপারেশন সার্চলাইট শুরু করে।"}
+    },
+    {
+      "id": "a006",
+      "difficulty": 1,
+      "q": {"en": "About how long did the Bangladesh Liberation War last?", "bn": "বাংলাদেশের মুক্তিযুদ্ধ প্রায় কতদিন স্থায়ী হয়েছিল?"},
+      "options": {"en": ["About three months", "About six months", "About two years", "About nine months"], "bn": ["প্রায় তিন মাস", "প্রায় ছয় মাস", "প্রায় দুই বছর", "প্রায় নয় মাস"]},
+      "answer": 3,
+      "explain": {"en": "The war ran from 26 March to 16 December 1971 — about nine months.", "bn": "১৯৭১ সালের ২৬ মার্চ থেকে ১৬ ডিসেম্বর পর্যন্ত প্রায় নয় মাস যুদ্ধ চলে।"}
+    },
+    {
+      "id": "a007",
+      "difficulty": 1,
+      "q": {"en": "Into how many sectors was Bangladesh divided for the Liberation War?", "bn": "মুক্তিযুদ্ধের সময় বাংলাদেশকে কয়টি সেক্টরে ভাগ করা হয়েছিল?"},
+      "options": {"en": ["9", "10", "11", "12"], "bn": ["৯", "১০", "১১", "১২"]},
+      "answer": 2,
+      "explain": {"en": "The country was divided into 11 sectors, each under a sector commander, to conduct the war.", "bn": "যুদ্ধ পরিচালনার জন্য দেশকে ১১টি সেক্টরে ভাগ করা হয়, প্রতিটি সেক্টরের দায়িত্বে ছিলেন একজন সেক্টর কমান্ডার।"}
+    },
+    {
+      "id": "a008",
+      "difficulty": 1,
+      "q": {"en": "Who was the Commander-in-Chief of the Bangladesh Forces during the Liberation War?", "bn": "মুক্তিযুদ্ধের সময় বাংলাদেশ বাহিনীর সর্বাধিনায়ক কে ছিলেন?"},
+      "options": {"en": ["Ziaur Rahman", "Khaled Mosharraf", "A. K. Khandker", "M. A. G. Osmani"], "bn": ["জিয়াউর রহমান", "খালেদ মোশাররফ", "এ. কে. খন্দকার", "এম. এ. জি. ওসমানী"]},
+      "answer": 3,
+      "explain": {"en": "Colonel (retd.) M. A. G. Osmani was appointed Commander-in-Chief of the Bangladesh Forces.", "bn": "কর্নেল (অব.) এম. এ. জি. ওসমানীকে বাংলাদেশ বাহিনীর সর্বাধিনায়ক নিযুক্ত করা হয়।"}
+    },
+    {
+      "id": "a009",
+      "difficulty": 1,
+      "q": {"en": "Which place served as the provisional capital of Bangladesh during the Liberation War?", "bn": "মুক্তিযুদ্ধের সময় বাংলাদেশের অস্থায়ী রাজধানী ছিল কোনটি?"},
+      "options": {"en": ["Kolkata", "Mujibnagar", "Agartala", "Dhaka"], "bn": ["কলকাতা", "মুজিবনগর", "আগরতলা", "ঢাকা"]},
+      "answer": 1,
+      "explain": {"en": "The Mujibnagar government operated from Mujibnagar in Meherpur, the provisional capital in exile.", "bn": "মুজিবনগর সরকার মেহেরপুরের মুজিবনগর থেকে পরিচালিত হতো, যা ছিল প্রবাসী অস্থায়ী রাজধানী।"}
+    },
+    {
+      "id": "a010",
+      "difficulty": 1,
+      "q": {"en": "How many freedom fighters received the Bir Sreshtho, Bangladesh's highest gallantry award?", "bn": "বাংলাদেশের সর্বোচ্চ বীরত্বসূচক খেতাব বীরশ্রেষ্ঠ কতজন মুক্তিযোদ্ধা পেয়েছেন?"},
+      "options": {"en": ["5", "11", "68", "7"], "bn": ["৫", "১১", "৬৮", "৭"]},
+      "answer": 3,
+      "explain": {"en": "Seven martyred freedom fighters were awarded the Bir Sreshtho for supreme sacrifice in 1971.", "bn": "১৯৭১ সালে সর্বোচ্চ আত্মত্যাগের জন্য সাতজন শহীদ মুক্তিযোদ্ধাকে বীরশ্রেষ্ঠ খেতাব দেওয়া হয়।"}
+    },
+    {
+      "id": "a011",
+      "difficulty": 1,
+      "q": {"en": "What was the main slogan of the Liberation War?", "bn": "মুক্তিযুদ্ধের প্রধান স্লোগান কী ছিল?"},
+      "options": {"en": ["Joy Bangla", "Bangladesh Zindabad", "Joy Bangabandhu", "Amar Shonar Bangla"], "bn": ["জয় বাংলা", "বাংলাদেশ জিন্দাবাদ", "জয় বঙ্গবন্ধু", "আমার সোনার বাংলা"]},
+      "answer": 0,
+      "explain": {"en": "'Joy Bangla' was the rallying slogan of the freedom fighters throughout the Liberation War.", "bn": "মুক্তিযুদ্ধের পুরো সময় ‘জয় বাংলা’ ছিল মুক্তিযোদ্ধাদের প্রাণের স্লোগান।"}
+    },
+    {
+      "id": "a012",
+      "difficulty": 1,
+      "q": {"en": "Which was the first country to recognise independent Bangladesh?", "bn": "স্বাধীন বাংলাদেশকে প্রথম স্বীকৃতি দেয় কোন দেশ?"},
+      "options": {"en": ["India", "Bhutan", "Soviet Union", "United Kingdom"], "bn": ["ভারত", "ভুটান", "সোভিয়েত ইউনিয়ন", "যুক্তরাজ্য"]},
+      "answer": 1,
+      "explain": {"en": "Bhutan recognised Bangladesh on 6 December 1971, hours before India did the same day.", "bn": "১৯৭১ সালের ৬ ডিসেম্বর ভুটান বাংলাদেশকে স্বীকৃতি দেয়, একই দিনে কয়েক ঘণ্টা পর ভারত স্বীকৃতি দেয়।"}
+    },
+    {
+      "id": "a013",
+      "difficulty": 1,
+      "q": {"en": "Where was the Instrument of Surrender signed on 16 December 1971?", "bn": "১৯৭১ সালের ১৬ ডিসেম্বর আত্মসমর্পণের দলিল কোথায় স্বাক্ষরিত হয়?"},
+      "options": {"en": ["Paltan Maidan", "Dhaka Cantonment", "Suhrawardy Udyan (then Racecourse)", "Curzon Hall"], "bn": ["পল্টন ময়দান", "ঢাকা সেনানিবাস", "সোহরাওয়ার্দী উদ্যান (তৎকালীন রেসকোর্স)", "কার্জন হল"]},
+      "answer": 2,
+      "explain": {"en": "The surrender ceremony took place at the Ramna Race Course in Dhaka, now Suhrawardy Udyan.", "bn": "ঢাকার রমনার রেসকোর্স ময়দানে আত্মসমর্পণ অনুষ্ঠান হয়, যা বর্তমানে সোহরাওয়ার্দী উদ্যান।"}
+    }
+    ,
+    {
+      "id": "a014",
+      "difficulty": 1,
+      "q": {"en": "Which Pakistani general signed the Instrument of Surrender?", "bn": "কোন পাকিস্তানি জেনারেল আত্মসমর্পণের দলিলে স্বাক্ষর করেন?"},
+      "options": {"en": ["Yahya Khan", "Tikka Khan", "A. A. K. Niazi", "Rao Farman Ali"], "bn": ["ইয়াহিয়া খান", "টিক্কা খান", "এ. এ. কে. নিয়াজি", "রাও ফরমান আলী"]},
+      "answer": 2,
+      "explain": {"en": "Lt. Gen. A. A. K. Niazi, commander of Pakistan's Eastern Command, signed the surrender.", "bn": "পাকিস্তানের পূর্বাঞ্চলীয় কমান্ডের অধিনায়ক লে. জেনারেল এ. এ. কে. নিয়াজি আত্মসমর্পণে স্বাক্ষর করেন।"}
+    },
+    {
+      "id": "a015",
+      "difficulty": 1,
+      "q": {"en": "Who accepted the Pakistani surrender on behalf of the allied forces?", "bn": "মিত্রবাহিনীর পক্ষে পাকিস্তানের আত্মসমর্পণ গ্রহণ করেন কে?"},
+      "options": {"en": ["Sam Manekshaw", "Jagjit Singh Aurora", "J. F. R. Jacob", "Sagat Singh"], "bn": ["স্যাম মানেকশ", "জগজিৎ সিং অরোরা", "জে. এফ. আর. জ্যাকব", "সাগাত সিং"]},
+      "answer": 1,
+      "explain": {"en": "Lt. Gen. Jagjit Singh Aurora, joint commander of the Bangladesh-India allied forces, accepted Niazi's surrender.", "bn": "বাংলাদেশ-ভারত মিত্রবাহিনীর যৌথ কমান্ডার লে. জেনারেল জগজিৎ সিং অরোরা নিয়াজির আত্মসমর্পণ গ্রহণ করেন।"}
+    },
+    {
+      "id": "a016",
+      "difficulty": 2,
+      "q": {"en": "Who was the first Prime Minister of the Mujibnagar government?", "bn": "মুজিবনগর সরকারের প্রথম প্রধানমন্ত্রী কে ছিলেন?"},
+      "options": {"en": ["Tajuddin Ahmad", "Syed Nazrul Islam", "Khandaker Moshtaque Ahmed", "M. Mansur Ali"], "bn": ["তাজউদ্দীন আহমদ", "সৈয়দ নজরুল ইসলাম", "খন্দকার মোশতাক আহমেদ", "এম. মনসুর আলী"]},
+      "answer": 0,
+      "explain": {"en": "Tajuddin Ahmad became the first Prime Minister of the provisional Mujibnagar government.", "bn": "তাজউদ্দীন আহমদ অস্থায়ী মুজিবনগর সরকারের প্রথম প্রধানমন্ত্রী হন।"}
+    },
+    {
+      "id": "a017",
+      "difficulty": 2,
+      "q": {"en": "Who served as Acting President of Bangladesh during the Liberation War?", "bn": "মুক্তিযুদ্ধের সময় বাংলাদেশের অস্থায়ী রাষ্ট্রপতির দায়িত্ব পালন করেন কে?"},
+      "options": {"en": ["Tajuddin Ahmad", "Khandaker Moshtaque Ahmed", "A. H. M. Qamaruzzaman", "Syed Nazrul Islam"], "bn": ["তাজউদ্দীন আহমদ", "খন্দকার মোশতাক আহমেদ", "এ. এইচ. এম. কামারুজ্জামান", "সৈয়দ নজরুল ইসলাম"]},
+      "answer": 3,
+      "explain": {"en": "With Sheikh Mujib imprisoned in Pakistan, Vice-President Syed Nazrul Islam acted as President.", "bn": "শেখ মুজিব পাকিস্তানে বন্দি থাকায় উপরাষ্ট্রপতি সৈয়দ নজরুল ইসলাম অস্থায়ী রাষ্ট্রপতির দায়িত্ব পালন করেন।"}
+    },
+    {
+      "id": "a018",
+      "difficulty": 2,
+      "q": {"en": "On which date did Major Ziaur Rahman broadcast the declaration of independence from the Kalurghat radio station?", "bn": "মেজর জিয়াউর রহমান কালুরঘাট বেতার কেন্দ্র থেকে স্বাধীনতার ঘোষণা প্রচার করেন কোন তারিখে?"},
+      "options": {"en": ["25 March 1971", "30 March 1971", "27 March 1971", "7 March 1971"], "bn": ["২৫ মার্চ ১৯৭১", "৩০ মার্চ ১৯৭১", "২৭ মার্চ ১৯৭১", "৭ মার্চ ১৯৭১"]},
+      "answer": 2,
+      "explain": {"en": "On 27 March 1971 Ziaur Rahman broadcast the declaration of independence from the Kalurghat radio station in Chittagong.", "bn": "১৯৭১ সালের ২৭ মার্চ চট্টগ্রামের কালুরঘাট বেতার কেন্দ্র থেকে জিয়াউর রহমান স্বাধীনতার ঘোষণা প্রচার করেন।"}
+    },
+    {
+      "id": "a019",
+      "difficulty": 2,
+      "q": {"en": "Where was the Swadhin Bangla Betar Kendra (Free Bengal Radio) first set up?", "bn": "স্বাধীন বাংলা বেতার কেন্দ্র প্রথম কোথায় স্থাপিত হয়?"},
+      "options": {"en": ["Dhaka", "Kalurghat, Chittagong", "Kolkata", "Agartala"], "bn": ["ঢাকা", "চট্টগ্রামের কালুরঘাট", "কলকাতা", "আগরতলা"]},
+      "answer": 1,
+      "explain": {"en": "Swadhin Bangla Betar Kendra began broadcasting from Kalurghat, Chittagong, in late March 1971.", "bn": "১৯৭১ সালের মার্চের শেষ দিকে চট্টগ্রামের কালুরঘাট থেকে স্বাধীন বাংলা বেতার কেন্দ্রের সম্প্রচার শুরু হয়।"}
+    },
+    {
+      "id": "a020",
+      "difficulty": 2,
+      "q": {"en": "Martyred Intellectuals Day is observed on —", "bn": "শহীদ বুদ্ধিজীবী দিবস পালিত হয় —"},
+      "options": {"en": ["14 December", "16 December", "25 March", "26 March"], "bn": ["১৪ ডিসেম্বর", "১৬ ডিসেম্বর", "২৫ মার্চ", "২৬ মার্চ"]},
+      "answer": 0,
+      "explain": {"en": "On 14 December 1971, Pakistani forces and their collaborators killed many of the nation's leading intellectuals.", "bn": "১৯৭১ সালের ১৪ ডিসেম্বর পাকিস্তানি বাহিনী ও তাদের সহযোগীরা দেশের বহু শীর্ষ বুদ্ধিজীবীকে হত্যা করে।"}
+    },
+    {
+      "id": "a021",
+      "difficulty": 2,
+      "q": {"en": "The Mujibnagar government was formed on —", "bn": "মুজিবনগর সরকার গঠিত হয় —"},
+      "options": {"en": ["26 March 1971", "17 April 1971", "7 March 1971", "10 April 1971"], "bn": ["২৬ মার্চ ১৯৭১", "১৭ এপ্রিল ১৯৭১", "৭ মার্চ ১৯৭১", "১০ এপ্রিল ১৯৭১"]},
+      "answer": 3,
+      "explain": {"en": "The provisional government of Bangladesh was formed on 10 April 1971 to conduct the Liberation War.", "bn": "মুক্তিযুদ্ধ পরিচালনার জন্য ১৯৭১ সালের ১০ এপ্রিল বাংলাদেশের অস্থায়ী সরকার গঠিত হয়।"}
+    },
+    {
+      "id": "a022",
+      "difficulty": 2,
+      "q": {"en": "When and where did the Mujibnagar government take its oath of office?", "bn": "মুজিবনগর সরকার কবে ও কোথায় শপথ গ্রহণ করে?"},
+      "options": {"en": ["10 April at Kolkata", "17 April at Baidyanathtala", "26 March at Dhaka", "7 March at Mujibnagar"], "bn": ["১০ এপ্রিল, কলকাতায়", "১৭ এপ্রিল, বৈদ্যনাথতলায়", "২৬ মার্চ, ঢাকায়", "৭ মার্চ, মুজিবনগরে"]},
+      "answer": 1,
+      "explain": {"en": "The cabinet took oath on 17 April 1971 at Baidyanathtala in Meherpur, later renamed Mujibnagar.", "bn": "১৯৭১ সালের ১৭ এপ্রিল মেহেরপুরের বৈদ্যনাথতলায় মন্ত্রিসভা শপথ নেয়; পরে এই স্থানের নাম হয় মুজিবনগর।"}
+    },
+    {
+      "id": "a023",
+      "difficulty": 2,
+      "q": {"en": "Who was the first commander of Sector 1?", "bn": "১ নম্বর সেক্টরের প্রথম কমান্ডার কে ছিলেন?"},
+      "options": {"en": ["Khaled Mosharraf", "Ziaur Rahman", "C. R. Dutta", "Abu Taher"], "bn": ["খালেদ মোশাররফ", "জিয়াউর রহমান", "সি. আর. দত্ত", "আবু তাহের"]},
+      "answer": 1,
+      "explain": {"en": "Major Ziaur Rahman was the first commander of Sector 1, later replaced by Major Rafiqul Islam.", "bn": "মেজর জিয়াউর রহমান ১ নম্বর সেক্টরের প্রথম কমান্ডার ছিলেন; পরে মেজর রফিকুল ইসলাম তাঁর স্থলাভিষিক্ত হন।"}
+    },
+    {
+      "id": "a024",
+      "difficulty": 2,
+      "q": {"en": "Who commanded Sector 2 during the Liberation War?", "bn": "মুক্তিযুদ্ধের সময় ২ নম্বর সেক্টরের কমান্ডার কে ছিলেন?"},
+      "options": {"en": ["Khaled Mosharraf", "K. M. Shafiullah", "Mir Shawkat Ali", "Abu Osman Chowdhury"], "bn": ["খালেদ মোশাররফ", "কে. এম. শফিউল্লাহ", "মীর শওকত আলী", "আবু ওসমান চৌধুরী"]},
+      "answer": 0,
+      "explain": {"en": "Major Khaled Mosharraf commanded Sector 2, covering Dhaka, Noakhali and parts of Comilla.", "bn": "মেজর খালেদ মোশাররফ ২ নম্বর সেক্টরের কমান্ডার ছিলেন; এই সেক্টরে ছিল ঢাকা, নোয়াখালী ও কুমিল্লার অংশ।"}
+    },
+    {
+      "id": "a025",
+      "difficulty": 2,
+      "q": {"en": "Who was the commander of Sector 4?", "bn": "৪ নম্বর সেক্টরের কমান্ডার কে ছিলেন?"},
+      "options": {"en": ["M. A. Jalil", "A. N. M. Nuruzzaman", "M. Khademul Bashar", "C. R. Dutta"], "bn": ["এম. এ. জলিল", "এ. এন. এম. নুরুজ্জামান", "এম. খাদেমুল বাশার", "সি. আর. দত্ত"]},
+      "answer": 3,
+      "explain": {"en": "Major Chitta Ranjan Dutta commanded Sector 4 in the Sylhet region throughout the war.", "bn": "মেজর চিত্তরঞ্জন দত্ত পুরো যুদ্ধজুড়ে সিলেট অঞ্চলের ৪ নম্বর সেক্টরের কমান্ডার ছিলেন।"}
+    },
+    {
+      "id": "a026",
+      "difficulty": 2,
+      "q": {"en": "Which air force officer commanded Sector 6?", "bn": "কোন বিমানবাহিনীর কর্মকর্তা ৬ নম্বর সেক্টরের কমান্ডার ছিলেন?"},
+      "options": {"en": ["A. K. Khandker", "M. Khademul Bashar", "Abu Taher", "M. Hamidullah Khan"], "bn": ["এ. কে. খন্দকার", "এম. খাদেমুল বাশার", "আবু তাহের", "এম. হামিদুল্লাহ খান"]},
+      "answer": 1,
+      "explain": {"en": "Wing Commander M. Khademul Bashar of the air force commanded Sector 6 in the Rangpur-Dinajpur region.", "bn": "বিমানবাহিনীর উইং কমান্ডার এম. খাদেমুল বাশার ৬ নম্বর সেক্টরের (রংপুর-দিনাজপুর অঞ্চল) কমান্ডার ছিলেন।"}
+    }
+    ,
+    {
+      "id": "a027",
+      "difficulty": 2,
+      "q": {"en": "Who commanded Sector 11?", "bn": "১১ নম্বর সেক্টরের কমান্ডার কে ছিলেন?"},
+      "options": {"en": ["Ziaur Rahman", "Khaled Mosharraf", "Abu Taher", "K. M. Shafiullah"], "bn": ["জিয়াউর রহমান", "খালেদ মোশাররফ", "আবু তাহের", "কে. এম. শফিউল্লাহ"]},
+      "answer": 2,
+      "explain": {"en": "Major Abu Taher commanded Sector 11 in the Mymensingh-Tangail region.", "bn": "মেজর আবু তাহের ১১ নম্বর সেক্টরের (ময়মনসিংহ-টাঙ্গাইল অঞ্চল) কমান্ডার ছিলেন।"}
+    },
+    {
+      "id": "a028",
+      "difficulty": 2,
+      "q": {"en": "When was the Mitra Bahini, the joint command of the Mukti Bahini and Indian forces, formed?", "bn": "মুক্তিবাহিনী ও ভারতীয় বাহিনীর যৌথ কমান্ড মিত্রবাহিনী কবে গঠিত হয়?"},
+      "options": {"en": ["21 November 1971", "3 December 1971", "16 December 1971", "21 October 1971"], "bn": ["২১ নভেম্বর ১৯৭১", "৩ ডিসেম্বর ১৯৭১", "১৬ ডিসেম্বর ১৯৭১", "২১ অক্টোবর ১৯৭১"]},
+      "answer": 0,
+      "explain": {"en": "On 21 November 1971 the joint command under Lt. Gen. J. S. Aurora brought the Mukti Bahini and Indian forces together as the Mitra Bahini.", "bn": "১৯৭১ সালের ২১ নভেম্বর লে. জেনারেল জে. এস. অরোরার নেতৃত্বে যৌথ কমান্ড গঠনের মাধ্যমে মুক্তিবাহিনী ও ভারতীয় বাহিনী মিত্রবাহিনী হিসেবে এক হয়।"}
+    },
+    {
+      "id": "a029",
+      "difficulty": 2,
+      "q": {"en": "Operation Jackpot, the naval commando raids on Pakistani shipping, took place on —", "bn": "পাকিস্তানি জাহাজে নৌকমান্ডো হামলা অপারেশন জ্যাকপট সংঘটিত হয় —"},
+      "options": {"en": ["25 March 1971", "21 November 1971", "3 December 1971", "15 August 1971"], "bn": ["২৫ মার্চ ১৯৭১", "২১ নভেম্বর ১৯৭১", "৩ ডিসেম্বর ১৯৭১", "১৫ আগস্ট ১৯৭১"]},
+      "answer": 3,
+      "explain": {"en": "On the night of 15 August 1971, naval commandos simultaneously mined ships at Chittagong, Mongla, Chandpur and Narayanganj.", "bn": "১৯৭১ সালের ১৫ আগস্ট রাতে নৌকমান্ডোরা চট্টগ্রাম, মোংলা, চাঁদপুর ও নারায়ণগঞ্জে একযোগে জাহাজে মাইন বসায়।"}
+    },
+    {
+      "id": "a030",
+      "difficulty": 2,
+      "q": {"en": "When and where was Kilo Flight, the first unit of the Bangladesh Air Force, formed?", "bn": "বাংলাদেশ বিমানবাহিনীর প্রথম ইউনিট কিলো ফ্লাইট কবে ও কোথায় গঠিত হয়?"},
+      "options": {"en": ["15 August 1971 at Kolkata", "28 September 1971 at Dimapur", "21 November 1971 at Agartala", "10 April 1971 at Mujibnagar"], "bn": ["১৯৭১ সালের ১৫ আগস্ট, কলকাতায়", "১৯৭১ সালের ২৮ সেপ্টেম্বর, ডিমাপুরে", "১৯৭১ সালের ২১ নভেম্বর, আগরতলায়", "১৯৭১ সালের ১০ এপ্রিল, মুজিবনগরে"]},
+      "answer": 1,
+      "explain": {"en": "Kilo Flight was formed on 28 September 1971 at Dimapur, Nagaland, with one Dakota, one Otter and one Alouette helicopter.", "bn": "১৯৭১ সালের ২৮ সেপ্টেম্বর নাগাল্যান্ডের ডিমাপুরে একটি ডাকোটা, একটি অটার ও একটি অ্যালুয়েট হেলিকপ্টার নিয়ে কিলো ফ্লাইট গঠিত হয়।"}
+    },
+    {
+      "id": "a031",
+      "difficulty": 3,
+      "q": {"en": "In which year did UNESCO inscribe the 7 March speech in its Memory of the World Register?", "bn": "৭ মার্চের ভাষণকে ইউনেস্কো কোন সালে মেমরি অব দ্য ওয়ার্ল্ড রেজিস্টারে অন্তর্ভুক্ত করে?"},
+      "options": {"en": ["2015", "2016", "2017", "2018"], "bn": ["২০১৫", "২০১৬", "২০১৭", "২০১৮"]},
+      "answer": 2,
+      "explain": {"en": "UNESCO inscribed the historic 7 March speech in the Memory of the World Register on 30 October 2017.", "bn": "২০১৭ সালের ৩০ অক্টোবর ইউনেস্কো ঐতিহাসিক ৭ মার্চের ভাষণকে মেমরি অব দ্য ওয়ার্ল্ড রেজিস্টারে অন্তর্ভুক্ত করে।"}
+    },
+    {
+      "id": "a032",
+      "difficulty": 3,
+      "q": {"en": "How many freedom fighters received the Bir Uttom award?", "bn": "বীর উত্তম খেতাব কতজন মুক্তিযোদ্ধা পেয়েছেন?"},
+      "options": {"en": ["68", "7", "175", "426"], "bn": ["৬৮", "৭", "১৭৫", "৪২৬"]},
+      "answer": 0,
+      "explain": {"en": "68 freedom fighters received the Bir Uttom, Bangladesh's second-highest gallantry award.", "bn": "বাংলাদেশের দ্বিতীয় সর্বোচ্চ বীরত্বসূচক খেতাব বীর উত্তম পেয়েছেন ৬৮ জন মুক্তিযোদ্ধা।"}
+    },
+    {
+      "id": "a033",
+      "difficulty": 3,
+      "q": {"en": "How many received the Bir Bikrom and Bir Protik awards respectively?", "bn": "বীর বিক্রম ও বীর প্রতীক খেতাব যথাক্রমে কতজন পেয়েছেন?"},
+      "options": {"en": ["68 and 175", "426 and 175", "175 and 426", "7 and 68"], "bn": ["৬৮ ও ১৭৫", "৪২৬ ও ১৭৫", "১৭৫ ও ৪২৬", "৭ ও ৬৮"]},
+      "answer": 2,
+      "explain": {"en": "175 fighters received the Bir Bikrom and 426 received the Bir Protik for valour in 1971.", "bn": "১৯৭১ সালে বীরত্বের জন্য ১৭৫ জন বীর বিক্রম ও ৪২৬ জন বীর প্রতীক খেতাব পান।"}
+    },
+    {
+      "id": "a034",
+      "difficulty": 3,
+      "q": {"en": "Flight Lieutenant Matiur Rahman died on 20 August 1971 while —", "bn": "ফ্লাইট লেফটেন্যান্ট মতিউর রহমান ১৯৭১ সালের ২০ আগস্ট মারা যান —"},
+      "options": {"en": ["bombing Karachi port", "leading a naval commando raid", "commanding Sector 10", "trying to defect with a T-33 aircraft to join the Liberation War"], "bn": ["করাচি বন্দরে বোমা হামলা চালাতে গিয়ে", "নৌকমান্ডো অভিযানের নেতৃত্ব দিতে গিয়ে", "১০ নম্বর সেক্টরের কমান্ড করতে গিয়ে", "মুক্তিযুদ্ধে যোগ দিতে টি-৩৩ বিমান নিয়ে পালানোর চেষ্টা করতে গিয়ে"]},
+      "answer": 3,
+      "explain": {"en": "Matiur Rahman tried to hijack a T-33 trainer in Karachi to defect and join the war; he died in the attempt and was awarded the Bir Sreshtho.", "bn": "মতিউর রহমান যুদ্ধে যোগ দিতে করাচিতে একটি টি-৩৩ প্রশিক্ষণ বিমান ছিনতাইয়ের চেষ্টা করেন; এই চেষ্টায় তিনি শহীদ হন এবং বীরশ্রেষ্ঠ খেতাব পান।"}
+    },
+    {
+      "id": "a035",
+      "difficulty": 3,
+      "q": {"en": "The Proclamation of Independence adopted on 10 April 1971 was made effective from —", "bn": "১৯৭১ সালের ১০ এপ্রিল গৃহীত স্বাধীনতার ঘোষণাপত্র কার্যকর করা হয় —"},
+      "options": {"en": ["10 April 1971", "26 March 1971", "17 April 1971", "16 December 1971"], "bn": ["১০ এপ্রিল ১৯৭১ থেকে", "২৬ মার্চ ১৯৭১ থেকে", "১৭ এপ্রিল ১৯৭১ থেকে", "১৬ ডিসেম্বর ১৯৭১ থেকে"]},
+      "answer": 1,
+      "explain": {"en": "The Proclamation declared Bangladesh's independence effective from 26 March 1971 and served as the interim constitution.", "bn": "ঘোষণাপত্রে ১৯৭১ সালের ২৬ মার্চ থেকে বাংলাদেশের স্বাধীনতা কার্যকর ঘোষণা করা হয় এবং এটি অন্তর্বর্তী সংবিধান হিসেবে কাজ করে।"}
+    },
+    {
+      "id": "a036",
+      "difficulty": 3,
+      "q": {"en": "Who was the youngest recipient of the Bir Sreshtho?", "bn": "সবচেয়ে কম বয়সী বীরশ্রেষ্ঠ কে?"},
+      "options": {"en": ["Hamidur Rahman", "Mostafa Kamal", "Munshi Abdur Rouf", "Nur Mohammad Sheikh"], "bn": ["হামিদুর রহমান", "মোস্তফা কামাল", "মুন্সী আব্দুর রউফ", "নূর মোহাম্মদ শেখ"]},
+      "answer": 0,
+      "explain": {"en": "Sepoy Hamidur Rahman, martyred at 17, was the youngest of the seven Bir Sreshtho recipients.", "bn": "১৭ বছর বয়সে শহীদ সিপাহী হামিদুর রহমান ছিলেন সাত বীরশ্রেষ্ঠের মধ্যে সবচেয়ে কম বয়সী।"}
+    },
+    {
+      "id": "a037",
+      "difficulty": 3,
+      "q": {"en": "Who drafted the Instrument of Surrender signed on 16 December 1971?", "bn": "১৯৭১ সালের ১৬ ডিসেম্বর স্বাক্ষরিত আত্মসমর্পণের দলিলের খসড়া কে তৈরি করেন?"},
+      "options": {"en": ["Sam Manekshaw", "Jagjit Singh Aurora", "J. F. R. Jacob", "A. K. Khandker"], "bn": ["স্যাম মানেকশ", "জগজিৎ সিং অরোরা", "জে. এফ. আর. জ্যাকব", "এ. কে. খন্দকার"]},
+      "answer": 2,
+      "explain": {"en": "Maj. Gen. J. F. R. Jacob, chief of staff of India's Eastern Command, drafted the Instrument of Surrender.", "bn": "ভারতের পূর্বাঞ্চলীয় কমান্ডের চিফ অব স্টাফ মেজর জেনারেল জে. এফ. আর. জ্যাকব আত্মসমর্পণের দলিলের খসড়া তৈরি করেন।"}
+    },
+    {
+      "id": "a038",
+      "difficulty": 3,
+      "q": {"en": "Who was the Deputy Chief of Staff of the Bangladesh Forces in 1971?", "bn": "১৯৭১ সালে বাংলাদেশ বাহিনীর ডেপুটি চিফ অব স্টাফ কে ছিলেন?"},
+      "options": {"en": ["M. A. G. Osmani", "Abdur Rab", "M. Khademul Bashar", "A. K. Khandker"], "bn": ["এম. এ. জি. ওসমানী", "আব্দুর রব", "এম. খাদেমুল বাশার", "এ. কে. খন্দকার"]},
+      "answer": 3,
+      "explain": {"en": "Group Captain A. K. Khandker served as Deputy Chief of Staff of the Bangladesh Forces and represented Bangladesh at the surrender ceremony.", "bn": "গ্রুপ ক্যাপ্টেন এ. কে. খন্দকার বাংলাদেশ বাহিনীর ডেপুটি চিফ অব স্টাফ ছিলেন এবং আত্মসমর্পণ অনুষ্ঠানে বাংলাদেশের প্রতিনিধিত্ব করেন।"}
+    }
+  ]
+}
