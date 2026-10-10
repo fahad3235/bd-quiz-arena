@@ -1,0 +1,981 @@
+{
+  "category": "civics",
+  "category_name": {
+    "bn": "সংবিধান, সরকার ও পৌরনীতি",
+    "en": "Constitution, Government & Civics"
+  },
+  "questions": [
+    {
+      "answer": 1,
+      "difficulty": 1,
+      "explain": {
+        "bn": "গণপরিষদ ১৯৭২ সালের ৪ নভেম্বর বাংলাদেশের সংবিধান গ্রহণ করে।",
+        "en": "The Constituent Assembly adopted the Constitution of Bangladesh on 4 November 1972."
+      },
+      "id": "e001",
+      "options": {
+        "bn": [
+          "২৬ মার্চ ১৯৭১",
+          "৪ নভেম্বর ১৯৭২",
+          "১৬ ডিসেম্বর ১৯৭২",
+          "১০ জানুয়ারি ১৯৭২"
+        ],
+        "en": [
+          "26 March 1971",
+          "4 November 1972",
+          "16 December 1972",
+          "10 January 1972"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের সংবিধান কোন তারিখে গৃহীত হয়?",
+        "en": "On which date was the Constitution of Bangladesh adopted?"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 1,
+      "explain": {
+        "bn": "বিজয় দিবসের প্রথম বার্ষিকীতে, ১৯৭২ সালের ১৬ ডিসেম্বর সংবিধান কার্যকর হয়।",
+        "en": "The Constitution came into force on 16 December 1972, the first anniversary of Victory Day."
+      },
+      "id": "e002",
+      "options": {
+        "bn": [
+          "২৬ মার্চ ১৯৭১",
+          "৪ নভেম্বর ১৯৭২",
+          "১০ এপ্রিল ১৯৭১",
+          "১৬ ডিসেম্বর ১৯৭২"
+        ],
+        "en": [
+          "26 March 1971",
+          "4 November 1972",
+          "10 April 1971",
+          "16 December 1972"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের সংবিধান কবে কার্যকর হয়?",
+        "en": "When did the Constitution of Bangladesh come into force?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 1,
+      "explain": {
+        "bn": "বাংলাদেশের এককক্ষবিশিষ্ট জাতীয় সংসদের নাম জাতীয় সংসদ (হাউস অব দ্য নেশন)।",
+        "en": "The unicameral national parliament of Bangladesh is called the Jatiya Sangsad (House of the Nation)."
+      },
+      "id": "e003",
+      "options": {
+        "bn": [
+          "জাতীয় সংসদ",
+          "লোকসভা",
+          "মজলিস-ই-শূরা",
+          "ন্যাশনাল অ্যাসেম্বলি"
+        ],
+        "en": [
+          "Jatiya Sangsad",
+          "Lok Sabha",
+          "Majlis-e-Shoora",
+          "National Assembly"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের জাতীয় সংসদের নাম কী?",
+        "en": "What is the name of the national parliament of Bangladesh?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "জাতীয় সংসদে ৩৫০টি আসন রয়েছে: ৩০০টি সরাসরি নির্বাচিত এবং ৫০টি নারীদের জন্য সংরক্ষিত।",
+        "en": "The Jatiya Sangsad has 350 seats: 300 directly elected and 50 reserved for women."
+      },
+      "id": "e004",
+      "options": {
+        "bn": [
+          "৩০০",
+          "৩১৫",
+          "৩৫০",
+          "৪০০"
+        ],
+        "en": [
+          "300",
+          "315",
+          "350",
+          "400"
+        ]
+      },
+      "q": {
+        "bn": "জাতীয় সংসদে মোট আসন সংখ্যা কত?",
+        "en": "How many total seats are there in the Jatiya Sangsad?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 1,
+      "explain": {
+        "bn": "রাষ্ট্রপতি গণপ্রজাতন্ত্রী বাংলাদেশের রাষ্ট্রপ্রধান।",
+        "en": "The President is the head of state of the People's Republic of Bangladesh."
+      },
+      "id": "e005",
+      "options": {
+        "bn": [
+          "প্রধানমন্ত্রী",
+          "রাষ্ট্রপতি",
+          "প্রধান বিচারপতি",
+          "স্পিকার"
+        ],
+        "en": [
+          "The Prime Minister",
+          "The President",
+          "The Chief Justice",
+          "The Speaker"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের রাষ্ট্রপ্রধান কে?",
+        "en": "Who is the head of state of Bangladesh?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 1,
+      "explain": {
+        "bn": "১৯৭১ সালে স্বাধীনতার ঘোষণার স্মরণে ২৬ মার্চ স্বাধীনতা দিবস পালিত হয়।",
+        "en": "Independence Day is observed on 26 March, marking the declaration of independence in 1971."
+      },
+      "id": "e006",
+      "options": {
+        "bn": [
+          "২৬ মার্চ",
+          "১৬ ডিসেম্বর",
+          "২১ ফেব্রুয়ারি",
+          "১৪ ডিসেম্বর"
+        ],
+        "en": [
+          "26 March",
+          "16 December",
+          "21 February",
+          "14 December"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশ স্বাধীনতা দিবস পালন করে —",
+        "en": "Bangladesh celebrates Independence Day on —"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "১৯৭১ সালে পাকিস্তানি বাহিনীর আত্মসমর্পণের স্মরণে ১৬ ডিসেম্বর বিজয় দিবস পালিত হয়।",
+        "en": "Victory Day is observed on 16 December, marking the surrender of Pakistani forces in 1971."
+      },
+      "id": "e007",
+      "options": {
+        "bn": [
+          "২৬ মার্চ",
+          "২১ ফেব্রুয়ারি",
+          "১৬ ডিসেম্বর",
+          "১৪ এপ্রিল"
+        ],
+        "en": [
+          "26 March",
+          "21 February",
+          "16 December",
+          "14 April"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের বিজয় দিবস পালিত হয় —",
+        "en": "Victory Day of Bangladesh is observed on —"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 1,
+      "explain": {
+        "bn": "২১ ফেব্রুয়ারি ১৯৫২ সালের ভাষা আন্দোলনের শহীদদের স্মরণে পালিত হয়; এটি আন্তর্জাতিক মাতৃভাষা দিবসও।",
+        "en": "21 February honours the martyrs of the 1952 Language Movement; it is also International Mother Language Day."
+      },
+      "id": "e008",
+      "options": {
+        "bn": [
+          "১৬ ডিসেম্বর",
+          "২১ ফেব্রুয়ারি",
+          "২৬ মার্চ",
+          "১৪ এপ্রিল"
+        ],
+        "en": [
+          "16 December",
+          "21 February",
+          "26 March",
+          "14 April"
+        ]
+      },
+      "q": {
+        "bn": "শহীদ দিবস (ভাষা শহীদ দিবস) পালিত হয় —",
+        "en": "Shaheed Day (Language Martyrs' Day) is observed on —"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 1,
+      "explain": {
+        "bn": "ঢাকা বাংলাদেশের রাজধানী ও বৃহত্তম শহর।",
+        "en": "Dhaka is the capital and largest city of Bangladesh."
+      },
+      "id": "e009",
+      "options": {
+        "bn": [
+          "চট্টগ্রাম",
+          "রাজশাহী",
+          "খুলনা",
+          "ঢাকা"
+        ],
+        "en": [
+          "Chattogram",
+          "Rajshahi",
+          "Khulna",
+          "Dhaka"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের রাজধানী কোনটি?",
+        "en": "What is the capital of Bangladesh?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 1,
+      "explain": {
+        "bn": "ইলিশ বাংলাদেশের জাতীয় মাছ।",
+        "en": "The hilsa (ilish) is the national fish of Bangladesh."
+      },
+      "id": "e010",
+      "options": {
+        "bn": [
+          "ইলিশ",
+          "রুই",
+          "কাতলা",
+          "পাবদা"
+        ],
+        "en": [
+          "Hilsa (Ilish)",
+          "Rohu (Rui)",
+          "Catla (Katla)",
+          "Pabda"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+        "en": "Which is the national fish of Bangladesh?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "রয়েল বেঙ্গল টাইগার বাংলাদেশের জাতীয় পশু।",
+        "en": "The Royal Bengal Tiger is the national animal of Bangladesh."
+      },
+      "id": "e011",
+      "options": {
+        "bn": [
+          "এশীয় হাতি",
+          "চিত্রা হরিণ",
+          "রয়েল বেঙ্গল টাইগার",
+          "গৌর"
+        ],
+        "en": [
+          "Asian Elephant",
+          "Spotted Deer",
+          "Royal Bengal Tiger",
+          "Gaur"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের জাতীয় পশু কোনটি?",
+        "en": "Which animal is the national animal of Bangladesh?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 1,
+      "explain": {
+        "bn": "রবীন্দ্রনাথ ঠাকুরের লেখা 'আমার সোনার বাংলা' বাংলাদেশের জাতীয় সংগীত।",
+        "en": "\"Amar Shonar Bangla\", written by Rabindranath Tagore, is the national anthem of Bangladesh."
+      },
+      "id": "e012",
+      "options": {
+        "bn": [
+          "জনগণমন",
+          "আমার সোনার বাংলা",
+          "বন্দে মাতরম্",
+          "ধনধান্য পুষ্পে ভরা"
+        ],
+        "en": [
+          "Jana Gana Mana",
+          "Amar Shonar Bangla",
+          "Vande Mataram",
+          "Dhono Dhanno Pushpe Bhora"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের জাতীয় সংগীত কোনটি?",
+        "en": "What is the national anthem of Bangladesh?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 1,
+      "explain": {
+        "bn": "বাংলাদেশ ৮টি প্রশাসনিক বিভাগে বিভক্ত।",
+        "en": "Bangladesh is divided into 8 administrative divisions."
+      },
+      "id": "e013",
+      "options": {
+        "bn": [
+          "৮",
+          "৭",
+          "৬",
+          "১০"
+        ],
+        "en": [
+          "8",
+          "7",
+          "6",
+          "10"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশে প্রশাসনিক বিভাগ কয়টি?",
+        "en": "How many administrative divisions are there in Bangladesh?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "১৮ বছর বা তার বেশি বয়সী প্রত্যেক বাংলাদেশি নাগরিক ভোট দেওয়ার অধিকারী।",
+        "en": "Every Bangladeshi citizen aged 18 or above is entitled to vote."
+      },
+      "id": "e015",
+      "options": {
+        "bn": [
+          "১৬ বছর",
+          "১৭ বছর",
+          "১৮ বছর",
+          "২১ বছর"
+        ],
+        "en": [
+          "16 years",
+          "17 years",
+          "18 years",
+          "21 years"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশে ভোট দেওয়ার সর্বনিম্ন বয়স কত?",
+        "en": "What is the minimum voting age in Bangladesh?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "৩৫০টি আসনের মধ্যে ৫০টি নারীদের জন্য সংরক্ষিত, যা সরাসরি নির্বাচিত সদস্যরা নির্বাচন করেন।",
+        "en": "50 of the 350 seats are reserved for women, elected by the directly elected members."
+      },
+      "id": "e016",
+      "options": {
+        "bn": [
+          "৩০",
+          "৫০",
+          "৬০",
+          "১০০"
+        ],
+        "en": [
+          "30",
+          "50",
+          "60",
+          "100"
+        ]
+      },
+      "q": {
+        "bn": "জাতীয় সংসদে নারীদের জন্য কয়টি আসন সংরক্ষিত?",
+        "en": "How many seats in the Jatiya Sangsad are reserved for women?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "প্রধানমন্ত্রী সরকারপ্রধান; রাষ্ট্রপতির নামে প্রধানমন্ত্রীর পরামর্শে নির্বাহী ক্ষমতা প্রয়োগ করা হয়।",
+        "en": "The Prime Minister is the head of government; executive power is exercised in the name of the President on the Prime Minister's advice."
+      },
+      "id": "e017",
+      "options": {
+        "bn": [
+          "প্রধানমন্ত্রী",
+          "রাষ্ট্রপতি",
+          "প্রধান বিচারপতি",
+          "অ্যাটর্নি জেনারেল"
+        ],
+        "en": [
+          "The Prime Minister",
+          "The President",
+          "The Chief Justice",
+          "The Attorney General"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের সরকারপ্রধান কে?",
+        "en": "Who is the head of government of Bangladesh?"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 2,
+      "explain": {
+        "bn": "সংবিধানের ৩ নম্বর অনুচ্ছেদে বাংলাকে প্রজাতন্ত্রের রাষ্ট্রভাষা ঘোষণা করা হয়েছে।",
+        "en": "Article 3 of the Constitution declares Bangla the state language of the Republic."
+      },
+      "id": "e019",
+      "options": {
+        "bn": [
+          "ইংরেজি",
+          "উর্দু",
+          "আরবি",
+          "বাংলা"
+        ],
+        "en": [
+          "English",
+          "Urdu",
+          "Arabic",
+          "Bangla"
+        ]
+      },
+      "q": {
+        "bn": "সংবিধান অনুযায়ী বাংলাদেশের রাষ্ট্রভাষা —",
+        "en": "According to the Constitution, the state language of Bangladesh is —"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "৮ নম্বর অনুচ্ছেদে জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতাকে মৌলনীতি হিসেবে উল্লেখ করা হয়েছে।",
+        "en": "Article 8 lists nationalism, socialism, democracy and secularism as the fundamental principles."
+      },
+      "id": "e020",
+      "options": {
+        "bn": [
+          "স্বাধীনতা, সাম্য, ভ্রাতৃত্ব, ন্যায়বিচার",
+          "জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র, ধর্মনিরপেক্ষতা",
+          "ঐক্য, বিশ্বাস, শৃঙ্খলা, অগ্রগতি",
+          "জাতীয়তাবাদ, পুঁজিবাদ, রাজতন্ত্র, ধর্মতন্ত্র"
+        ],
+        "en": [
+          "Liberty, Equality, Fraternity, Justice",
+          "Nationalism, Socialism, Democracy, Secularism",
+          "Unity, Faith, Discipline, Progress",
+          "Nationalism, Capitalism, Monarchy, Theocracy"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশ রাষ্ট্রের চারটি মৌলনীতি কোনগুলো?",
+        "en": "Which four are the fundamental principles of the Bangladesh state?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "তৎকালীন আইনমন্ত্রী ড. কামাল হোসেন ৩৪ সদস্যের সংবিধান খসড়া প্রণয়ন কমিটির সভাপতিত্ব করেন।",
+        "en": "Dr. Kamal Hossain, then law minister, chaired the 34-member Constitution Drafting Committee."
+      },
+      "id": "e021",
+      "options": {
+        "bn": [
+          "ড. কামাল হোসেন",
+          "তাজউদ্দীন আহমদ",
+          "সৈয়দ নজরুল ইসলাম",
+          "সুরঞ্জিত সেনগুপ্ত"
+        ],
+        "en": [
+          "Dr. Kamal Hossain",
+          "Tajuddin Ahmad",
+          "Syed Nazrul Islam",
+          "Suranjit Sengupta"
+        ]
+      },
+      "q": {
+        "bn": "১৯৭২ সালের সংবিধান খসড়া প্রণয়ন কমিটির সভাপতি কে ছিলেন?",
+        "en": "Who chaired the Constitution Drafting Committee of 1972?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 2,
+      "explain": {
+        "bn": "সুপ্রিম কোর্ট আপিল বিভাগ ও হাইকোর্ট বিভাগ নিয়ে গঠিত।",
+        "en": "The Supreme Court comprises the Appellate Division and the High Court Division."
+      },
+      "id": "e022",
+      "options": {
+        "bn": [
+          "একটি",
+          "তিনটি",
+          "দুটি",
+          "চারটি"
+        ],
+        "en": [
+          "One",
+          "Three",
+          "Two",
+          "Four"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের সুপ্রিম কোর্ট কয়টি বিভাগ নিয়ে গঠিত?",
+        "en": "The Supreme Court of Bangladesh consists of how many divisions?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "আগে ভেঙে না দিলে প্রথম বৈঠকের পাঁচ বছর পর সংসদ বিলুপ্ত হয়।",
+        "en": "Parliament stands dissolved five years after its first meeting, unless dissolved earlier."
+      },
+      "id": "e023",
+      "options": {
+        "bn": [
+          "৪ বছর",
+          "৫ বছর",
+          "৬ বছর",
+          "৭ বছর"
+        ],
+        "en": [
+          "4 years",
+          "5 years",
+          "6 years",
+          "7 years"
+        ]
+      },
+      "q": {
+        "bn": "জাতীয় সংসদের মেয়াদ কত বছর?",
+        "en": "What is the term of the Jatiya Sangsad?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "জাতীয় সংসদের সদস্যদের ভোটে রাষ্ট্রপতি নির্বাচিত হন।",
+        "en": "The President is elected by the members of the Jatiya Sangsad."
+      },
+      "id": "e024",
+      "options": {
+        "bn": [
+          "সংসদ সদস্যদের ভোটে",
+          "সরাসরি জনগণের ভোটে",
+          "সুপ্রিম কোর্টের মাধ্যমে",
+          "জেলা পরিষদের মাধ্যমে"
+        ],
+        "en": [
+          "Members of Parliament",
+          "Direct popular vote",
+          "The Supreme Court",
+          "District councils"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের রাষ্ট্রপতি নির্বাচিত হন —",
+        "en": "The President of Bangladesh is elected by —"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 2,
+      "explain": {
+        "bn": "দায়িত্ব গ্রহণের তারিখ থেকে রাষ্ট্রপতি পাঁচ বছর মেয়াদে দায়িত্ব পালন করেন।",
+        "en": "The President holds office for five years from the date of assuming office."
+      },
+      "id": "e025",
+      "options": {
+        "bn": [
+          "৪ বছর",
+          "৬ বছর",
+          "৭ বছর",
+          "৫ বছর"
+        ],
+        "en": [
+          "4 years",
+          "6 years",
+          "7 years",
+          "5 years"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের রাষ্ট্রপতির মেয়াদ কত বছর?",
+        "en": "What is the term of office of the President of Bangladesh?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 2,
+      "explain": {
+        "bn": "১১৮ নম্বর অনুচ্ছেদের অধীনে গঠিত নির্বাচন কমিশন সংসদ ও রাষ্ট্রপতি নির্বাচন পরিচালনা করে।",
+        "en": "The Election Commission, established under Article 118, conducts elections to Parliament and the presidency."
+      },
+      "id": "e026",
+      "options": {
+        "bn": [
+          "সুপ্রিম কোর্ট",
+          "মন্ত্রিসভা",
+          "নির্বাচন কমিশন",
+          "সরকারি কর্ম কমিশন"
+        ],
+        "en": [
+          "The Supreme Court",
+          "The Cabinet",
+          "The Election Commission",
+          "The Public Service Commission"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশে সংসদ নির্বাচন পরিচালনা করে কোন সংস্থা?",
+        "en": "Which body conducts parliamentary elections in Bangladesh?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "জেলা প্রশাসক (ডিসি) প্রতিটি জেলার প্রশাসনের প্রধান।",
+        "en": "The Deputy Commissioner (DC) heads the administration of each district."
+      },
+      "id": "e027",
+      "options": {
+        "bn": [
+          "বিভাগীয় কমিশনার",
+          "জেলা প্রশাসক (ডিসি)",
+          "উপজেলা নির্বাহী কর্মকর্তা",
+          "ইউনিয়ন পরিষদ চেয়ারম্যান"
+        ],
+        "en": [
+          "Divisional Commissioner",
+          "Deputy Commissioner",
+          "Upazila Nirbahi Officer",
+          "Union Parishad Chairman"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশে জেলা প্রশাসনের প্রধান কে?",
+        "en": "Who heads the administration of a district in Bangladesh?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "ঢাকার রেসকোর্স ময়দানে (বর্তমানে সোহরাওয়ার্দী উদ্যান) আত্মসমর্পণ দলিল স্বাক্ষরিত হয়।",
+        "en": "The surrender was signed at the Racecourse Maidan in Dhaka, now known as Suhrawardy Udyan."
+      },
+      "id": "e028",
+      "options": {
+        "bn": [
+          "রেসকোর্স ময়দান, ঢাকা",
+          "লালবাগ কেল্লা",
+          "আহসান মঞ্জিল",
+          "কার্জন হল"
+        ],
+        "en": [
+          "Racecourse Maidan, Dhaka",
+          "Lalbagh Fort",
+          "Ahsan Manzil",
+          "Curzon Hall"
+        ]
+      },
+      "q": {
+        "bn": "১৯৭১ সালের ১৬ ডিসেম্বর পাকিস্তানি বাহিনী যৌথ বাহিনীর কাছে আত্মসমর্পণ করে —",
+        "en": "Pakistani forces surrendered to the joint forces on 16 December 1971 at —"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 2,
+      "explain": {
+        "bn": "ঢাকার বঙ্গভবন বাংলাদেশের রাষ্ট্রপতির সরকারি বাসভবন।",
+        "en": "Bangabhaban in Dhaka is the official residence of the President of Bangladesh."
+      },
+      "id": "e029",
+      "options": {
+        "bn": [
+          "প্রধানমন্ত্রীর",
+          "প্রধান বিচারপতির",
+          "রাষ্ট্রপতির",
+          "স্পিকারের"
+        ],
+        "en": [
+          "The Prime Minister",
+          "The Chief Justice",
+          "The President",
+          "The Speaker"
+        ]
+      },
+      "q": {
+        "bn": "বঙ্গভবন কার সরকারি বাসভবন?",
+        "en": "Bangabhaban is the official residence of —"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "ছাত্রনেতা আ স ম আবদুর রব ১৯৭১ সালের ২ মার্চ ঢাকা বিশ্ববিদ্যালয়ে প্রথম পতাকা উত্তোলন করেন।",
+        "en": "Student leader A. S. M. Abdur Rab first hoisted the flag at Dhaka University on 2 March 1971."
+      },
+      "id": "e030",
+      "options": {
+        "bn": [
+          "সোহরাওয়ার্দী উদ্যানে",
+          "ঢাকা বিশ্ববিদ্যালয়ে",
+          "লালবাগ কেল্লায়",
+          "শহীদ মিনারে"
+        ],
+        "en": [
+          "Suhrawardy Udyan",
+          "Dhaka University",
+          "Lalbagh Fort",
+          "Shahid Minar"
+        ]
+      },
+      "q": {
+        "bn": "১৯৭১ সালের ২ মার্চ স্বাধীন বাংলাদেশের প্রথম পতাকা উত্তোলন করা হয় —",
+        "en": "The first flag of independent Bangladesh was hoisted on 2 March 1971 at —"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 3,
+      "explain": {
+        "bn": "১৯৭২ সালের ১১ এপ্রিল গঠিত সংবিধান খসড়া প্রণয়ন কমিটিতে ৩৪ জন সদস্য ছিলেন।",
+        "en": "The Constitution Drafting Committee formed on 11 April 1972 had 34 members."
+      },
+      "id": "e031",
+      "options": {
+        "bn": [
+          "৩০",
+          "৩২",
+          "৪০",
+          "৩৪"
+        ],
+        "en": [
+          "30",
+          "32",
+          "40",
+          "34"
+        ]
+      },
+      "q": {
+        "bn": "১৯৭২ সালের সংবিধান খসড়া প্রণয়ন কমিটিতে সদস্য সংখ্যা কত ছিল?",
+        "en": "How many members were there in the Constitution Drafting Committee of 1972?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 3,
+      "explain": {
+        "bn": "১৪২ নম্বর অনুচ্ছেদ অনুযায়ী সংবিধান সংশোধন বিল পাস হতে সংসদের মোট সদস্যের দুই-তৃতীয়াংশের ভোট প্রয়োজন।",
+        "en": "Article 142 requires a bill amending the Constitution to pass with two-thirds of the total members of Parliament."
+      },
+      "id": "e032",
+      "options": {
+        "bn": [
+          "সংসদের সব সদস্যের দুই-তৃতীয়াংশের ভোট",
+          "উপস্থিত সদস্যদের সাধারণ সংখ্যাগরিষ্ঠতা",
+          "উপস্থিত সদস্যদের তিন-চতুর্থাংশ",
+          "শুধু রাষ্ট্রপতির অনুমোদন"
+        ],
+        "en": [
+          "Two-thirds of all members of Parliament",
+          "A simple majority of members present",
+          "Three-fourths of members present",
+          "The President's approval alone"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের সংবিধান সংশোধনের জন্য প্রয়োজন —",
+        "en": "An amendment to the Constitution of Bangladesh requires the votes of —"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 3,
+      "explain": {
+        "bn": "১৩তম সংশোধনীর (১৯৯৬) মাধ্যমে সাধারণ নির্বাচন পরিচালনার জন্য নির্দলীয় তত্ত্বাবধায়ক সরকার চালু হয়।",
+        "en": "The 13th Amendment (1996) introduced the non-party caretaker government to oversee general elections."
+      },
+      "id": "e033",
+      "options": {
+        "bn": [
+          "১১তম সংশোধনী",
+          "১২তম সংশোধনী",
+          "১৩তম সংশোধনী",
+          "১৫তম সংশোধনী"
+        ],
+        "en": [
+          "11th Amendment",
+          "12th Amendment",
+          "13th Amendment",
+          "15th Amendment"
+        ]
+      },
+      "q": {
+        "bn": "কোন সাংবিধানিক সংশোধনীর মাধ্যমে তত্ত্বাবধায়ক সরকার ব্যবস্থা চালু হয়?",
+        "en": "The caretaker government system was introduced by which constitutional amendment?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 3,
+      "explain": {
+        "bn": "৬৬ নম্বর অনুচ্ছেদ অনুযায়ী সংসদে নির্বাচিত হতে কমপক্ষে ২৫ বছর বয়স হতে হবে।",
+        "en": "Article 66 requires a person to be at least 25 years old to be elected to Parliament."
+      },
+      "id": "e034",
+      "options": {
+        "bn": [
+          "২১ বছর",
+          "২৫ বছর",
+          "৩০ বছর",
+          "৩৫ বছর"
+        ],
+        "en": [
+          "21 years",
+          "25 years",
+          "30 years",
+          "35 years"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশে সংসদ সদস্য হওয়ার সর্বনিম্ন বয়স কত?",
+        "en": "What is the minimum age to become a member of Parliament in Bangladesh?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 3,
+      "explain": {
+        "bn": "৪৮ নম্বর অনুচ্ছেদ অনুযায়ী রাষ্ট্রপতির বয়স কমপক্ষে ৩৫ বছর এবং সংসদ সদস্য হিসেবে নির্বাচিত হওয়ার যোগ্য হতে হবে।",
+        "en": "Article 48 requires the President to be at least 35 years old and qualified for election as a member of Parliament."
+      },
+      "id": "e035",
+      "options": {
+        "bn": [
+          "৩৫ বছর",
+          "৩০ বছর",
+          "৪০ বছর",
+          "২৫ বছর"
+        ],
+        "en": [
+          "35 years",
+          "30 years",
+          "40 years",
+          "25 years"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের রাষ্ট্রপতি হওয়ার সর্বনিম্ন বয়স কত?",
+        "en": "What is the minimum age to become President of Bangladesh?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 3,
+      "explain": {
+        "bn": "সুপ্রিম কোর্টের বিচারপতিরা ৬৭ বছর বয়স পর্যন্ত দায়িত্বে থাকেন।",
+        "en": "Supreme Court judges hold office until the age of 67."
+      },
+      "id": "e036",
+      "options": {
+        "bn": [
+          "৬৫ বছর",
+          "৬০ বছর",
+          "৬৭ বছর",
+          "৭০ বছর"
+        ],
+        "en": [
+          "65 years",
+          "60 years",
+          "67 years",
+          "70 years"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের সুপ্রিম কোর্টের বিচারপতিরা কত বছর বয়সে অবসর নেন?",
+        "en": "At what age do judges of the Supreme Court of Bangladesh retire?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 3,
+      "explain": {
+        "bn": "পতাকা বিধি অনুযায়ী দৈর্ঘ্য-প্রস্থের অনুপাত ১০:৬, এবং লাল বৃত্তের ব্যাসার্ধ দৈর্ঘ্যের এক-পঞ্চমাংশ।",
+        "en": "The Flag Rules specify a 10:6 length-to-width ratio, with the red disc's radius one-fifth of the length."
+      },
+      "id": "e037",
+      "options": {
+        "bn": [
+          "৩:২",
+          "১০:৬",
+          "২:১",
+          "৫:৩"
+        ],
+        "en": [
+          "3:2",
+          "10:6",
+          "2:1",
+          "5:3"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের জাতীয় পতাকার দৈর্ঘ্য-প্রস্থের অনুপাত কত?",
+        "en": "What is the length-to-width ratio of the national flag of Bangladesh?"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 3,
+      "explain": {
+        "bn": "স্বাধীন বাংলাদেশের প্রথম সাধারণ নির্বাচন ১৯৭৩ সালের ৭ মার্চ অনুষ্ঠিত হয়।",
+        "en": "The first general election of independent Bangladesh was held on 7 March 1973."
+      },
+      "id": "e038",
+      "options": {
+        "bn": [
+          "৭ মার্চ ১৯৭১",
+          "১৬ ডিসেম্বর ১৯৭২",
+          "২৬ মার্চ ১৯৭৩",
+          "৭ মার্চ ১৯৭৩"
+        ],
+        "en": [
+          "7 March 1971",
+          "16 December 1972",
+          "26 March 1973",
+          "7 March 1973"
+        ]
+      },
+      "q": {
+        "bn": "স্বাধীন বাংলাদেশের প্রথম সাধারণ নির্বাচন কবে অনুষ্ঠিত হয়?",
+        "en": "When was the first general election of independent Bangladesh held?"
+      }
+    }
+  ]
+}
