@@ -1,0 +1,312 @@
+{
+  "category": "language-movement",
+  "category_name": {"en": "Language Movement", "bn": "ভাষা আন্দোলন"},
+  "questions": [
+    {
+      "id": "b001",
+      "difficulty": 1,
+      "q": {"en": "Language Martyrs Day (Shaheed Dibosh) is observed on —", "bn": "শহীদ দিবস (ভাষা শহীদ দিবস) পালিত হয় —"},
+      "options": {"en": ["21 February", "16 December", "26 March", "14 December"], "bn": ["২১ ফেব্রুয়ারি", "১৬ ডিসেম্বর", "২৬ মার্চ", "১৪ ডিসেম্বর"]},
+      "answer": 0,
+      "explain": {"en": "21 February is observed as Language Martyrs Day in memory of those killed during the 1952 movement.", "bn": "১৯৫২ সালের আন্দোলনে নিহতদের স্মরণে ২১ ফেব্রুয়ারি শহীদ দিবস হিসেবে পালিত হয়।"}
+    },
+    {
+      "id": "b002",
+      "difficulty": 1,
+      "q": {"en": "In which year did police fire on language protesters in Dhaka, killing several demonstrators?", "bn": "ঢাকায় ভাষা আন্দোলনকারীদের ওপর পুলিশ গুলি চালিয়ে কয়েকজনকে হত্যা করে কোন সালে?"},
+      "options": {"en": ["1948", "1952", "1966", "1969"], "bn": ["১৯৪৮", "১৯৫২", "১৯৬৬", "১৯৬৯"]},
+      "answer": 1,
+      "explain": {"en": "On 21 February 1952 police opened fire on protesters defying Section 144 in Dhaka.", "bn": "১৯৫২ সালের ২১ ফেব্রুয়ারি ঢাকায় ১৪৪ ধারা ভঙ্গকারী মিছিলে পুলিশ গুলি চালায়।"}
+    },
+    {
+      "id": "b003",
+      "difficulty": 1,
+      "q": {"en": "International Mother Language Day is observed worldwide on —", "bn": "আন্তর্জাতিক মাতৃভাষা দিবস বিশ্বব্যাপী পালিত হয় —"},
+      "options": {"en": ["21 March", "17 November", "21 February", "10 December"], "bn": ["২১ মার্চ", "১৭ নভেম্বর", "২১ ফেব্রুয়ারি", "১০ ডিসেম্বর"]},
+      "answer": 2,
+      "explain": {"en": "21 February is observed as International Mother Language Day in honour of the 1952 language martyrs.", "bn": "১৯৫২ সালের ভাষা শহীদদের সম্মানে ২১ ফেব্রুয়ারি আন্তর্জাতিক মাতৃভাষা দিবস পালিত হয়।"}
+    },
+    {
+      "id": "b004",
+      "difficulty": 1,
+      "q": {"en": "In which year did Muhammad Ali Jinnah declare in Dhaka that Urdu would be the sole state language of Pakistan?", "bn": "মুহম্মদ আলী জিন্নাহ ঢাকায় কোন সালে ঘোষণা দেন যে উর্দুই হবে পাকিস্তানের একমাত্র রাষ্ট্রভাষা?"},
+      "options": {"en": ["1947", "1948", "1952", "1956"], "bn": ["১৯৪৭", "১৯৪৮", "১৯৫২", "১৯৫৬"]},
+      "answer": 1,
+      "explain": {"en": "On 21 March 1948 Jinnah declared at Dhaka's Racecourse that 'Urdu and only Urdu' would be the state language.", "bn": "১৯৪৮ সালের ২১ মার্চ ঢাকার রেসকোর্সে জিন্নাহ ঘোষণা দেন, ‘উর্দুই হবে পাকিস্তানের রাষ্ট্রভাষা’।"}
+    },
+    {
+      "id": "b005",
+      "difficulty": 1,
+      "q": {"en": "The Six-Point Movement for regional autonomy took place in —", "bn": "আঞ্চলিক স্বায়ত্তশাসনের দাবিতে ছয় দফা আন্দোলন সংঘটিত হয় —"},
+      "options": {"en": ["1966", "1969", "1952", "1970"], "bn": ["১৯৬৬ সালে", "১৯৬৯ সালে", "১৯৫২ সালে", "১৯৭০ সালে"]},
+      "answer": 0,
+      "explain": {"en": "Sheikh Mujibur Rahman announced the Six Points in February 1966, sparking a mass movement that June.", "bn": "শেখ মুজিবুর রহমান ১৯৬৬ সালের ফেব্রুয়ারিতে ছয় দফা ঘোষণা করেন, যা জুনে গণআন্দোলনে রূপ নেয়।"}
+    },
+    {
+      "id": "b006",
+      "difficulty": 1,
+      "q": {"en": "Who announced the historic Six-Point programme?", "bn": "ঐতিহাসিক ছয় দফা কর্মসূচি কে ঘোষণা করেন?"},
+      "options": {"en": ["Maulana Bhashani", "H. S. Suhrawardy", "A. K. Fazlul Huq", "Sheikh Mujibur Rahman"], "bn": ["মওলানা ভাসানী", "এইচ. এস. সোহরাওয়ার্দী", "এ. কে. ফজলুল হক", "শেখ মুজিবুর রহমান"]},
+      "answer": 3,
+      "explain": {"en": "Sheikh Mujibur Rahman presented the Six Points at Lahore on 5 February 1966.", "bn": "শেখ মুজিবুর রহমান ১৯৬৬ সালের ৫ ফেব্রুয়ারি লাহোরে ছয় দফা উত্থাপন করেন।"}
+    },
+    {
+      "id": "b007",
+      "difficulty": 1,
+      "q": {"en": "The mass uprising (Ganoabhyutthan) that forced Ayub Khan to resign took place in —", "bn": "আইয়ুব খানকে পদত্যাগে বাধ্য করা গণঅভ্যুত্থান সংঘটিত হয় —"},
+      "options": {"en": ["1966", "1968", "1969", "1971"], "bn": ["১৯৬৬ সালে", "১৯৬৮ সালে", "১৯৬৯ সালে", "১৯৭১ সালে"]},
+      "answer": 2,
+      "explain": {"en": "The 1969 mass uprising ended Ayub Khan's decade-long rule and freed Sheikh Mujib from the Agartala case.", "bn": "১৯৬৯ সালের গণঅভ্যুত্থান আইয়ুব খানের দশ বছরের শাসনের অবসান ঘটায় এবং আগরতলা মামলা থেকে শেখ মুজিবকে মুক্ত করে।"}
+    },
+    {
+      "id": "b008",
+      "difficulty": 1,
+      "q": {"en": "In which year was Sheikh Mujibur Rahman given the title 'Bangabandhu'?", "bn": "শেখ মুজিবুর রহমানকে ‘বঙ্গবন্ধু’ উপাধি দেওয়া হয় কোন সালে?"},
+      "options": {"en": ["1966", "1969", "1971", "1972"], "bn": ["১৯৬৬ সালে", "১৯৬৯ সালে", "১৯৭১ সালে", "১৯৭২ সালে"]},
+      "answer": 1,
+      "explain": {"en": "After his release from the Agartala case, Mujib was honoured with the title 'Bangabandhu' on 23 February 1969.", "bn": "আগরতলা মামলা থেকে মুক্তির পর ১৯৬৯ সালের ২৩ ফেব্রুয়ারি মুজিবকে ‘বঙ্গবন্ধু’ উপাধিতে ভূষিত করা হয়।"}
+    },
+    {
+      "id": "b009",
+      "difficulty": 1,
+      "q": {"en": "Which party won a landslide victory in the 1970 general elections in Pakistan?", "bn": "১৯৭০ সালের পাকিস্তানের সাধারণ নির্বাচনে কোন দল নিরঙ্কুশ জয় পায়?"},
+      "options": {"en": ["Awami League", "Pakistan Peoples Party", "Muslim League", "National Awami Party"], "bn": ["আওয়ামী লীগ", "পাকিস্তান পিপলস পার্টি", "মুসলিম লীগ", "ন্যাশনাল আওয়ামী পার্টি"]},
+      "answer": 0,
+      "explain": {"en": "The Awami League won 167 of 169 East Pakistan seats, gaining an absolute majority in the National Assembly.", "bn": "আওয়ামী লীগ পূর্ব পাকিস্তানের ১৬৯টি আসনের মধ্যে ১৬৭টিতে জিতে জাতীয় পরিষদে নিরঙ্কুশ সংখ্যাগরিষ্ঠতা পায়।"}
+    },
+    {
+      "id": "b010",
+      "difficulty": 1,
+      "q": {"en": "Who was the principal accused in the Agartala Conspiracy Case?", "bn": "আগরতলা ষড়যন্ত্র মামলার প্রধান আসামি কে ছিলেন?"},
+      "options": {"en": ["Tajuddin Ahmad", "Syed Nazrul Islam", "M. Mansur Ali", "Sheikh Mujibur Rahman"], "bn": ["তাজউদ্দীন আহমদ", "সৈয়দ নজরুল ইসলাম", "এম. মনসুর আলী", "শেখ মুজিবুর রহমান"]},
+      "answer": 3,
+      "explain": {"en": "The case, officially 'State vs. Sheikh Mujibur Rahman and others', named Mujib as the principal accused among 35 people.", "bn": "‘রাষ্ট্র বনাম শেখ মুজিবুর রহমান ও অন্যান্য’ নামের এই মামলায় ৩৫ জনের মধ্যে মুজিব ছিলেন প্রধান আসামি।"}
+    },
+    {
+      "id": "b011",
+      "difficulty": 1,
+      "q": {"en": "Shaheed Asad Day is observed on —", "bn": "শহীদ আসাদ দিবস পালিত হয় —"},
+      "options": {"en": ["15 February", "20 January", "24 January", "18 February"], "bn": ["১৫ ফেব্রুয়ারি", "২০ জানুয়ারি", "২৪ জানুয়ারি", "১৮ ফেব্রুয়ারি"]},
+      "answer": 1,
+      "explain": {"en": "Student leader Asaduzzaman (Asad) was killed in police firing on 20 January 1969.", "bn": "১৯৬৯ সালের ২০ জানুয়ারি পুলিশের গুলিতে ছাত্রনেতা আসাদুজ্জামান (আসাদ) নিহত হন।"}
+    },
+    {
+      "id": "b012",
+      "difficulty": 1,
+      "q": {"en": "Who wrote the Ekushey song 'Amar Bhaier Rokte Rangano'?", "bn": "‘আমার ভাইয়ের রক্তে রাঙানো’ একুশের গানটির রচয়িতা কে?"},
+      "options": {"en": ["Abdul Gaffar Chowdhury", "Kazi Nazrul Islam", "Jasimuddin", "Shamsur Rahman"], "bn": ["আবদুল গাফফার চৌধুরী", "কাজী নজরুল ইসলাম", "জসীমউদ্দীন", "শামসুর রাহমান"]},
+      "answer": 0,
+      "explain": {"en": "Journalist Abdul Gaffar Chowdhury wrote the immortal Ekushey song in 1952.", "bn": "সাংবাদিক আবদুল গাফফার চৌধুরী ১৯৫২ সালে অমর একুশের গানটি রচনা করেন।"}
+    },
+    {
+      "id": "b013",
+      "difficulty": 1,
+      "q": {"en": "Who composed the tune of 'Amar Bhaier Rokte Rangano'?", "bn": "‘আমার ভাইয়ের রক্তে রাঙানো’ গানটির সুরকার কে?"},
+      "options": {"en": ["Samar Das", "Abdul Latif", "Altaf Mahmud", "Abdul Gaffar Chowdhury"], "bn": ["সমর দাস", "আবদুল লতিফ", "আলতাফ মাহমুদ", "আবদুল গাফফার চৌধুরী"]},
+      "answer": 2,
+      "explain": {"en": "The song's haunting tune was composed by Altaf Mahmud.", "bn": "গানটির সুর করেন আলতাফ মাহমুদ।"}
+    }
+    ,
+    {
+      "id": "b014",
+      "difficulty": 1,
+      "q": {"en": "Ayub Khan resigned and handed power to Yahya Khan in —", "bn": "আইয়ুব খান পদত্যাগ করে ইয়াহিয়া খানের হাতে ক্ষমতা হস্তান্তর করেন —"},
+      "options": {"en": ["1966", "1969", "1970", "1971"], "bn": ["১৯৬৬ সালে", "১৯৬৯ সালে", "১৯৭০ সালে", "১৯৭১ সালে"]},
+      "answer": 1,
+      "explain": {"en": "On 25 March 1969 Ayub Khan resigned and General Yahya Khan took over.", "bn": "১৯৬৯ সালের ২৫ মার্চ আইয়ুব খান পদত্যাগ করেন এবং জেনারেল ইয়াহিয়া খান ক্ষমতা গ্রহণ করেন।"}
+    },
+    {
+      "id": "b015",
+      "difficulty": 1,
+      "q": {"en": "The devastating Bhola cyclone struck East Pakistan in —", "bn": "ভয়াবহ ভোলা ঘূর্ণিঝড় পূর্ব পাকিস্তানে আঘাত হানে —"},
+      "options": {"en": ["1969", "1968", "1967", "1970"], "bn": ["১৯৬৯ সালে", "১৯৬৮ সালে", "১৯৬৭ সালে", "১৯৭০ সালে"]},
+      "answer": 3,
+      "explain": {"en": "The Bhola cyclone of 12 November 1970 killed hundreds of thousands and exposed the regime's neglect of East Pakistan.", "bn": "১৯৭০ সালের ১২ নভেম্বরের ভোলা ঘূর্ণিঝড়ে লাখ লাখ মানুষ নিহত হয় এবং পূর্ব পাকিস্তানের প্রতি শাসকদের অবহেলা প্রকাশ পায়।"}
+    },
+    {
+      "id": "b016",
+      "difficulty": 2,
+      "q": {"en": "When and where were the Six Points announced?", "bn": "ছয় দফা কবে ও কোথায় ঘোষণা করা হয়?"},
+      "options": {"en": ["5 February 1966 at Lahore", "7 June 1966 at Dhaka", "23 February 1969 at Dhaka", "7 March 1971 at Dhaka"], "bn": ["১৯৬৬ সালের ৫ ফেব্রুয়ারি, লাহোরে", "১৯৬৬ সালের ৭ জুন, ঢাকায়", "১৯৬৯ সালের ২৩ ফেব্রুয়ারি, ঢাকায়", "১৯৭১ সালের ৭ মার্চ, ঢাকায়"]},
+      "answer": 0,
+      "explain": {"en": "Mujib placed the Six Points before opposition leaders at Lahore on 5 February 1966, then announced them at a press conference.", "bn": "মুজিব ১৯৬৬ সালের ৫ ফেব্রুয়ারি লাহোরে বিরোধী নেতাদের সামনে ছয় দফা উত্থাপন করেন, পরে সংবাদ সম্মেলনে তা ঘোষণা দেন।"}
+    },
+    {
+      "id": "b017",
+      "difficulty": 2,
+      "q": {"en": "Who founded the Tamaddun Majlish, a pioneering organisation of the Language Movement?", "bn": "ভাষা আন্দোলনের অগ্রদূত সংগঠন তমদ্দুন মজলিশের প্রতিষ্ঠাতা কে?"},
+      "options": {"en": ["Dhirendranath Datta", "Muhammad Shahidullah", "Abul Kashem", "Abul Mansur Ahmed"], "bn": ["ধীরেন্দ্রনাথ দত্ত", "মুহম্মদ শহীদুল্লাহ", "আবুল কাসেম", "আবুল মনসুর আহমদ"]},
+      "answer": 2,
+      "explain": {"en": "Dhaka University physics professor Abul Kashem founded the Tamaddun Majlish in 1947.", "bn": "ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞানের অধ্যাপক আবুল কাসেম ১৯৪৭ সালে তমদ্দুন মজলিশ প্রতিষ্ঠা করেন।"}
+    },
+    {
+      "id": "b018",
+      "difficulty": 2,
+      "q": {"en": "Who first demanded in Pakistan's Constituent Assembly that Bengali be made an official language?", "bn": "পাকিস্তান গণপরিষদে প্রথম কে দাবি তোলেন যে বাংলাকে সরকারি ভাষা করা হোক?"},
+      "options": {"en": ["Liaquat Ali Khan", "Dhirendranath Datta", "Khwaja Nazimuddin", "A. K. Fazlul Huq"], "bn": ["লিয়াকত আলী খান", "ধীরেন্দ্রনাথ দত্ত", "খাজা নাজিমুদ্দীন", "এ. কে. ফজলুল হক"]},
+      "answer": 1,
+      "explain": {"en": "In February 1948 Dhirendranath Datta moved that Bengali be used in the Constituent Assembly alongside Urdu and English.", "bn": "১৯৪৮ সালের ফেব্রুয়ারিতে ধীরেন্দ্রনাথ দত্ত গণপরিষদে উর্দু ও ইংরেজির পাশাপাশি বাংলা ব্যবহারের প্রস্তাব তোলেন।"}
+    },
+    {
+      "id": "b019",
+      "difficulty": 2,
+      "q": {"en": "What did Prime Minister Khwaja Nazimuddin declare in Dhaka on 27 January 1952?", "bn": "১৯৫২ সালের ২৭ জানুয়ারি ঢাকায় প্রধানমন্ত্রী খাজা নাজিমুদ্দীন কী ঘোষণা দেন?"},
+      "options": {"en": ["Bengali would be a state language", "Both Urdu and Bengali would be state languages", "English would be the state language", "Urdu would be the state language"], "bn": ["বাংলা রাষ্ট্রভাষা হবে", "উর্দু ও বাংলা দুটোই রাষ্ট্রভাষা হবে", "ইংরেজি রাষ্ট্রভাষা হবে", "উর্দুই রাষ্ট্রভাষা হবে"]},
+      "answer": 3,
+      "explain": {"en": "Nazimuddin's declaration that Urdu would be the sole state language reignited the Language Movement.", "bn": "নাজিমুদ্দীনের ‘উর্দুই রাষ্ট্রভাষা হবে’ ঘোষণা ভাষা আন্দোলনকে নতুন করে জ্বালিয়ে তোলে।"}
+    },
+    {
+      "id": "b020",
+      "difficulty": 2,
+      "q": {"en": "Which four are honoured as the martyrs of 21 February 1952?", "bn": "১৯৫২ সালের ২১ ফেব্রুয়ারির শহীদ হিসেবে কোন চারজন সম্মানিত?"},
+      "options": {"en": ["Abdus Salam, Abul Barkat, Rafiq Uddin Ahmed and Abdul Jabbar", "Shafiur Rahman, Asaduzzaman, Matiur Rahman and Shamsuzzoha", "Abdus Salam, Rafiq Uddin Ahmed, Asaduzzaman and Nur Mohammad", "Abul Barkat, Abdul Jabbar, Hamidur Rahman and Matiur Rahman"], "bn": ["আবদুস সালাম, আবুল বরকত, রফিক উদ্দিন আহমদ ও আবদুল জব্বার", "শফিউর রহমান, আসাদুজ্জামান, মতিউর রহমান ও শামসুজ্জোহা", "আবদুস সালাম, রফিক উদ্দিন আহমদ, আসাদুজ্জামান ও নূর মোহাম্মদ", "আবুল বরকত, আবদুল জব্বার, হামিদুর রহমান ও মতিউর রহমান"]},
+      "answer": 0,
+      "explain": {"en": "Abdus Salam, Abul Barkat, Rafiq Uddin Ahmed and Abdul Jabbar were killed in police firing on 21 February 1952.", "bn": "১৯৫২ সালের ২১ ফেব্রুয়ারি পুলিশের গুলিতে আবদুস সালাম, আবুল বরকত, রফিক উদ্দিন আহমদ ও আবদুল জব্বার নিহত হন।"}
+    },
+    {
+      "id": "b021",
+      "difficulty": 2,
+      "q": {"en": "What happened to the first Shaheed Minar built by students in February 1952?", "bn": "১৯৫২ সালের ফেব্রুয়ারিতে ছাত্রদের নির্মিত প্রথম শহীদ মিনারের কী হয়েছিল?"},
+      "options": {"en": ["It was demolished by police on 26 February 1952", "It still stands at Dhaka Medical College", "It was moved to Dhaka University in 1956", "It was destroyed during the 1971 war"], "bn": ["১৯৫২ সালের ২৬ ফেব্রুয়ারি পুলিশ এটি ভেঙে দেয়", "এটি এখনও ঢাকা মেডিকেল কলেজে আছে", "১৯৫৬ সালে এটি ঢাকা বিশ্ববিদ্যালয়ে সরিয়ে নেওয়া হয়", "১৯৭১ সালের যুদ্ধে এটি ধ্বংস হয়"]},
+      "answer": 0,
+      "explain": {"en": "Students built the first Shaheed Minar overnight on 23 February 1952; police demolished it on 26 February.", "bn": "ছাত্ররা ১৯৫২ সালের ২৩ ফেব্রুয়ারি রাতারাতি প্রথম শহীদ মিনার নির্মাণ করে; ২৬ ফেব্রুয়ারি পুলিশ তা ভেঙে দেয়।"}
+    },
+    {
+      "id": "b022",
+      "difficulty": 2,
+      "q": {"en": "In the 1954 provincial elections, the United Front won —", "bn": "১৯৫৪ সালের প্রাদেশিক নির্বাচনে যুক্তফ্রন্ট জয়লাভ করে —"},
+      "options": {"en": ["167 of 169 seats", "223 of 237 Muslim seats", "288 of 300 seats", "143 of 309 seats"], "bn": ["১৬৯টির মধ্যে ১৬৭টি আসন", "২৩৭টি মুসলিম আসনের মধ্যে ২২৩টি", "৩০০টির মধ্যে ২৮৮টি আসন", "৩০৯টির মধ্যে ১৪৩টি আসন"]},
+      "answer": 1,
+      "explain": {"en": "The United Front won 223 of 237 Muslim seats, virtually wiping out the ruling Muslim League.", "bn": "যুক্তফ্রন্ট ২৩৭টি মুসলিম আসনের মধ্যে ২২৩টিতে জিতে ক্ষমতাসীন মুসলিম লীগকে প্রায় নিশ্চিহ্ন করে দেয়।"}
+    },
+    {
+      "id": "b023",
+      "difficulty": 2,
+      "q": {"en": "What did the United Front's 21-point programme demand regarding language?", "bn": "ভাষা সম্পর্কে যুক্তফ্রন্টের ২১ দফা কর্মসূচিতে কী দাবি ছিল?"},
+      "options": {"en": ["Urdu as the sole state language", "English as the state language", "Bengali as a state language of Pakistan", "Abolition of the Bengali script"], "bn": ["একমাত্র রাষ্ট্রভাষা হিসেবে উর্দু", "রাষ্ট্রভাষা হিসেবে ইংরেজি", "পাকিস্তানের রাষ্ট্রভাষা হিসেবে বাংলা", "বাংলা লিপির বিলোপ"]},
+      "answer": 2,
+      "explain": {"en": "The 21-point programme demanded recognition of Bengali as a state language of Pakistan.", "bn": "২১ দফা কর্মসূচিতে পাকিস্তানের রাষ্ট্রভাষা হিসেবে বাংলার স্বীকৃতির দাবি ছিল।"}
+    },
+    {
+      "id": "b024",
+      "difficulty": 2,
+      "q": {"en": "What status did Pakistan's 1956 constitution give to the Bengali language?", "bn": "১৯৫৬ সালের পাকিস্তানের সংবিধানে বাংলা ভাষাকে কী মর্যাদা দেওয়া হয়?"},
+      "options": {"en": ["Sole state language", "Regional language only", "No official status", "State language alongside Urdu"], "bn": ["একমাত্র রাষ্ট্রভাষা", "শুধু আঞ্চলিক ভাষা", "কোনো সরকারি মর্যাদা নয়", "উর্দুর পাশাপাশি রাষ্ট্রভাষা"]},
+      "answer": 3,
+      "explain": {"en": "The 1956 constitution recognised both Urdu and Bengali as state languages of Pakistan.", "bn": "১৯৫৬ সালের সংবিধানে উর্দু ও বাংলা উভয়কেই পাকিস্তানের রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেওয়া হয়।"}
+    },
+    {
+      "id": "b025",
+      "difficulty": 2,
+      "q": {"en": "When did students announce the 11-point charter during the 1969 uprising?", "bn": "১৯৬৯ সালের অভ্যুত্থানের সময় ছাত্ররা ১১ দফা দাবি কবে ঘোষণা করে?"},
+      "options": {"en": ["February 1966", "January 1969", "December 1970", "March 1971"], "bn": ["১৯৬৬ সালের ফেব্রুয়ারি", "১৯৬৯ সালের জানুয়ারি", "১৯৭০ সালের ডিসেম্বর", "১৯৭১ সালের মার্চ"]},
+      "answer": 1,
+      "explain": {"en": "The Sarbadaliya Chhatra Sangram Parishad announced its 11-point charter on 4 January 1969.", "bn": "১৯৬৯ সালের ৪ জানুয়ারি সর্বদলীয় ছাত্র সংগ্রাম পরিষদ ১১ দফা দাবি ঘোষণা করে।"}
+    },
+    {
+      "id": "b026",
+      "difficulty": 2,
+      "q": {"en": "Sergeant Zahurul Haq, an accused in the Agartala case, was killed on —", "bn": "আগরতলা মামলার আসামি সার্জেন্ট জহুরুল হক নিহত হন —"},
+      "options": {"en": ["20 January 1969", "18 February 1969", "15 February 1969", "22 February 1969"], "bn": ["১৯৬৯ সালের ২০ জানুয়ারি", "১৯৬৯ সালের ১৮ ফেব্রুয়ারি", "১৯৬৯ সালের ১৫ ফেব্রুয়ারি", "১৯৬৯ সালের ২২ ফেব্রুয়ারি"]},
+      "answer": 2,
+      "explain": {"en": "Sergeant Zahurul Haq was shot dead in custody at the Dhaka Cantonment on 15 February 1969.", "bn": "১৯৬৯ সালের ১৫ ফেব্রুয়ারি ঢাকা সেনানিবাসে হেফাজতে সার্জেন্ট জহুরুল হককে গুলি করে হত্যা করা হয়।"}
+    }
+    ,
+    {
+      "id": "b027",
+      "difficulty": 2,
+      "q": {"en": "The Agartala Conspiracy Case was withdrawn and Sheikh Mujib released on —", "bn": "আগরতলা ষড়যন্ত্র মামলা প্রত্যাহার ও শেখ মুজিবের মুক্তি ঘটে —"},
+      "options": {"en": ["22 February 1969", "15 February 1969", "23 February 1969", "25 March 1969"], "bn": ["১৯৬৯ সালের ২২ ফেব্রুয়ারি", "১৯৬৯ সালের ১৫ ফেব্রুয়ারি", "১৯৬৯ সালের ২৩ ফেব্রুয়ারি", "১৯৬৯ সালের ২৫ মার্চ"]},
+      "answer": 0,
+      "explain": {"en": "Under mass pressure the government withdrew the Agartala case and freed Mujib on 22 February 1969.", "bn": "গণচাপের মুখে সরকার ১৯৬৯ সালের ২২ ফেব্রুয়ারি আগরতলা মামলা প্রত্যাহার করে মুজিবকে মুক্তি দেয়।"}
+    },
+    {
+      "id": "b028",
+      "difficulty": 2,
+      "q": {"en": "Where was Sheikh Mujibur Rahman given the title 'Bangabandhu' on 23 February 1969?", "bn": "১৯৬৯ সালের ২৩ ফেব্রুয়ারি শেখ মুজিবুর রহমানকে কোথায় ‘বঙ্গবন্ধু’ উপাধি দেওয়া হয়?"},
+      "options": {"en": ["Paltan Maidan, Dhaka", "Dhaka University campus", "Suhrawardy Udyan", "Racecourse Ground, Dhaka"], "bn": ["ঢাকার পল্টন ময়দান", "ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাস", "সোহরাওয়ার্দী উদ্যান", "ঢাকার রেসকোর্স ময়দান"]},
+      "answer": 3,
+      "explain": {"en": "At a grand reception at the Racecourse Ground on 23 February 1969, Tofail Ahmed conferred the title 'Bangabandhu' on Mujib.", "bn": "১৯৬৯ সালের ২৩ ফেব্রুয়ারি রেসকোর্স ময়দানের বিশাল সংবর্ধনায় তোফায়েল আহমেদ মুজিবকে ‘বঙ্গবন্ধু’ উপাধি দেন।"}
+    },
+    {
+      "id": "b029",
+      "difficulty": 2,
+      "q": {"en": "In the 1970 National Assembly elections, the Awami League won in East Pakistan —", "bn": "১৯৭০ সালের জাতীয় পরিষদ নির্বাচনে আওয়ামী লীগ পূর্ব পাকিস্তানে জেতে —"},
+      "options": {"en": ["81 of 138 seats", "143 of 237 seats", "167 of 169 seats", "288 of 300 seats"], "bn": ["১৩৮টির মধ্যে ৮১টি আসন", "২৩৭টির মধ্যে ১৪৩টি আসন", "১৬৯টির মধ্যে ১৬৭টি আসন", "৩০০টির মধ্যে ২৮৮টি আসন"]},
+      "answer": 2,
+      "explain": {"en": "The Awami League won 167 of 169 East Pakistan seats, securing an absolute majority in the 313-seat National Assembly.", "bn": "আওয়ামী লীগ পূর্ব পাকিস্তানের ১৬৯টি আসনের মধ্যে ১৬৭টিতে জিতে ৩১৩ আসনের জাতীয় পরিষদে নিরঙ্কুশ সংখ্যাগরিষ্ঠতা পায়।"}
+    },
+    {
+      "id": "b030",
+      "difficulty": 2,
+      "q": {"en": "In the 1970 provincial elections, the Awami League won in East Pakistan —", "bn": "১৯৭০ সালের প্রাদেশিক নির্বাচনে আওয়ামী লীগ পূর্ব পাকিস্তানে জেতে —"},
+      "options": {"en": ["167 of 169 seats", "288 of 300 seats", "223 of 237 seats", "175 of 300 seats"], "bn": ["১৬৯টির মধ্যে ১৬৭টি আসন", "৩০০টির মধ্যে ২৮৮টি আসন", "২৩৭টির মধ্যে ২২৩টি আসন", "৩০০টির মধ্যে ১৭৫টি আসন"]},
+      "answer": 1,
+      "explain": {"en": "The Awami League won 288 of 300 seats in the East Pakistan Provincial Assembly.", "bn": "আওয়ামী লীগ পূর্ব পাকিস্তান প্রাদেশিক পরিষদের ৩০০টি আসনের মধ্যে ২৮৮টিতে জয়লাভ করে।"}
+    },
+    {
+      "id": "b031",
+      "difficulty": 3,
+      "q": {"en": "In which year did UNESCO proclaim 21 February as International Mother Language Day?", "bn": "২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে ইউনেস্কো কোন সালে ঘোষণা করে?"},
+      "options": {"en": ["1997", "1998", "1999", "2000"], "bn": ["১৯৯৭", "১৯৯৮", "১৯৯৯", "২০০০"]},
+      "answer": 2,
+      "explain": {"en": "On 17 November 1999 UNESCO's General Conference unanimously proclaimed 21 February as International Mother Language Day.", "bn": "১৯৯৯ সালের ১৭ নভেম্বর ইউনেস্কোর সাধারণ সম্মেলন সর্বসম্মতভাবে ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস ঘোষণা করে।"}
+    },
+    {
+      "id": "b032",
+      "difficulty": 3,
+      "q": {"en": "On 21 March 1948, where did Jinnah declare that 'Urdu and only Urdu' would be the state language?", "bn": "১৯৪৮ সালের ২১ মার্চ জিন্নাহ কোথায় ঘোষণা দেন যে ‘উর্দুই হবে রাষ্ট্রভাষা’?"},
+      "options": {"en": ["Paltan Maidan, Dhaka", "Frere Hall, Karachi", "Badshahi Mosque, Lahore", "Racecourse Ground, Dhaka"], "bn": ["ঢাকার পল্টন ময়দান", "করাচির ফ্রিয়ার হল", "লাহোরের বাদশাহি মসজিদ", "ঢাকার রেসকোর্স ময়দান"]},
+      "answer": 3,
+      "explain": {"en": "At a civic reception at Dhaka's Racecourse Ground on 21 March 1948, Jinnah declared Urdu the sole state language; he repeated it at Dhaka University on 24 March.", "bn": "১৯৪৮ সালের ২১ মার্চ ঢাকার রেসকোর্স ময়দানের নাগরিক সংবর্ধনায় জিন্নাহ উর্দুকে একমাত্র রাষ্ট্রভাষা ঘোষণা করেন; ২৪ মার্চ ঢাকা বিশ্ববিদ্যালয়ে তা পুনরাবৃত্তি করেন।"}
+    },
+    {
+      "id": "b033",
+      "difficulty": 3,
+      "q": {"en": "On 1 March 1971, Yahya Khan did what?", "bn": "১৯৭১ সালের ১ মার্চ ইয়াহিয়া খান কী করেন?"},
+      "options": {"en": ["Postponed the National Assembly session", "Declared independence", "Launched Operation Searchlight", "Released Sheikh Mujib"], "bn": ["জাতীয় পরিষদের অধিবেশন স্থগিত করেন", "স্বাধীনতা ঘোষণা করেন", "অপারেশন সার্চলাইট শুরু করেন", "শেখ মুজিবকে মুক্তি দেন"]},
+      "answer": 0,
+      "explain": {"en": "Yahya Khan's postponement of the 3 March assembly session on 1 March 1971 triggered the non-cooperation movement.", "bn": "১৯৭১ সালের ১ মার্চ ৩ মার্চের অধিবেশন স্থগিতের ঘোষণা অসহযোগ আন্দোলনের সূত্রপাত ঘটায়।"}
+    },
+    {
+      "id": "b034",
+      "difficulty": 3,
+      "q": {"en": "Who first hoisted the flag of independent Bangladesh, and when?", "bn": "স্বাধীন বাংলাদেশের পতাকা প্রথম কে ও কবে উত্তোলন করেন?"},
+      "options": {"en": ["Shahjahan Siraj on 3 March 1971", "A. S. M. Abdur Rab on 2 March 1971", "Sheikh Mujib on 7 March 1971", "Tajuddin Ahmad on 26 March 1971"], "bn": ["১৯৭১ সালের ৩ মার্চ শাহজাহান সিরাজ", "১৯৭১ সালের ২ মার্চ আ. স. ম. আবদুর রব", "১৯৭১ সালের ৭ মার্চ শেখ মুজিব", "১৯৭১ সালের ২৬ মার্চ তাজউদ্দীন আহমদ"]},
+      "answer": 1,
+      "explain": {"en": "On 2 March 1971 DUCSU vice-president A. S. M. Abdur Rab hoisted the first flag of Bangladesh at Dhaka University.", "bn": "১৯৭১ সালের ২ মার্চ ডাকসুর সহ-সভাপতি আ. স. ম. আবদুর রব ঢাকা বিশ্ববিদ্যালয়ে বাংলাদেশের প্রথম পতাকা উত্তোলন করেন।"}
+    },
+    {
+      "id": "b035",
+      "difficulty": 3,
+      "q": {"en": "Who read out the independence manifesto at Paltan Maidan on 3 March 1971?", "bn": "১৯৭১ সালের ৩ মার্চ পল্টন ময়দানে স্বাধীনতার ইশতেহার কে পাঠ করেন?"},
+      "options": {"en": ["A. S. M. Abdur Rab", "Tofail Ahmed", "Shahjahan Siraj", "Serajul Alam Khan"], "bn": ["আ. স. ম. আবদুর রব", "তোফায়েল আহমেদ", "শাহজাহান সিরাজ", "সিরাজুল আলম খান"]},
+      "answer": 2,
+      "explain": {"en": "On 3 March 1971 Shahjahan Siraj read the 'Shadhinotar Ishtehar' (independence manifesto) at Paltan Maidan.", "bn": "১৯৭১ সালের ৩ মার্চ পল্টন ময়দানে শাহজাহান সিরাজ ‘স্বাধীনতার ইশতেহার’ পাঠ করেন।"}
+    },
+    {
+      "id": "b036",
+      "difficulty": 3,
+      "q": {"en": "After announcing the Six Points, Sheikh Mujib was arrested on —", "bn": "ছয় দফা ঘোষণার পর শেখ মুজিব গ্রেপ্তার হন —"},
+      "options": {"en": ["5 February 1966", "7 June 1966", "3 January 1968", "8 May 1966"], "bn": ["১৯৬৬ সালের ৫ ফেব্রুয়ারি", "১৯৬৬ সালের ৭ জুন", "১৯৬৮ সালের ৩ জানুয়ারি", "১৯৬৬ সালের ৮ মে"]},
+      "answer": 3,
+      "explain": {"en": "Mujib was arrested on 8 May 1966 during his Six-Point campaign and remained imprisoned for nearly three years.", "bn": "ছয় দফার প্রচারণার সময় ১৯৬৬ সালের ৮ মে মুজিব গ্রেপ্তার হন এবং প্রায় তিন বছর কারাবন্দি থাকেন।"}
+    },
+    {
+      "id": "b037",
+      "difficulty": 3,
+      "q": {"en": "7 June is observed in Bangladesh as —", "bn": "বাংলাদেশে ৭ জুন পালিত হয় —"},
+      "options": {"en": ["Six-Point Day", "Language Martyrs Day", "Mass Uprising Day", "Education Day"], "bn": ["ছয় দফা দিবস", "শহীদ দিবস", "গণঅভ্যুত্থান দিবস", "শিক্ষা দিবস"]},
+      "answer": 0,
+      "explain": {"en": "7 June 1966 saw a countrywide hartal for the Six Points, with police firing killing protesters; it is observed as Six-Point Day.", "bn": "১৯৬৬ সালের ৭ জুন ছয় দফার দাবিতে দেশব্যাপী হরতাল হয়, পুলিশের গুলিতে আন্দোলনকারী নিহত হন; এই দিন ছয় দফা দিবস হিসেবে পালিত হয়।"}
+    },
+    {
+      "id": "b038",
+      "difficulty": 3,
+      "q": {"en": "The Ekushey Padak, Bangladesh's award for contributions to language and culture, was instituted in —", "bn": "ভাষা ও সংস্কৃতিতে অবদানের জন্য বাংলাদেশের একুশে পদক প্রবর্তিত হয় —"},
+      "options": {"en": ["1972", "1976", "1979", "1956"], "bn": ["১৯৭২ সালে", "১৯৭৬ সালে", "১৯৭৯ সালে", "১৯৫৬ সালে"]},
+      "answer": 1,
+      "explain": {"en": "The Ekushey Padak was instituted in 1976 to honour contributions to the Language Movement and national culture.", "bn": "ভাষা আন্দোলন ও জাতীয় সংস্কৃতিতে অবদানের স্বীকৃতিতে ১৯৭৬ সালে একুশে পদক প্রবর্তিত হয়।"}
+    }
+  ]
+}
