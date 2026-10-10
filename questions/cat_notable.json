@@ -1,0 +1,1008 @@
+{
+  "category": "notable",
+  "category_name": {
+    "bn": "বিখ্যাত বাংলাদেশি ও প্রথম",
+    "en": "Notable Bangladeshis & Firsts"
+  },
+  "questions": [
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "ক্ষুদ্রঋণের মাধ্যমে অর্থনৈতিক ও সামাজিক উন্নয়নের প্রচেষ্টার জন্য ড. মুহাম্মদ ইউনূস ২০০৬ সালে নোবেল শান্তি পুরস্কার পান।",
+        "en": "Dr. Muhammad Yunus received the 2006 Nobel Peace Prize for his efforts to create economic and social development through microcredit."
+      },
+      "id": "h001",
+      "options": {
+        "bn": [
+          "অমর্ত্য সেন",
+          "কোফি আনান",
+          "ড. মুহাম্মদ ইউনূস",
+          "মালালা ইউসুফজাই"
+        ],
+        "en": [
+          "Amartya Sen",
+          "Kofi Annan",
+          "Dr. Muhammad Yunus",
+          "Malala Yousafzai"
+        ]
+      },
+      "q": {
+        "bn": "২০০৬ সালে নোবেল শান্তি পুরস্কার পান কে?",
+        "en": "Who won the Nobel Peace Prize in 2006?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "পুরস্কারটি মুহাম্মদ ইউনূস ও তাঁর প্রতিষ্ঠিত গ্রামীণ ব্যাংকের মধ্যে সমানভাবে ভাগ করা হয়।",
+        "en": "The prize was divided equally between Muhammad Yunus and Grameen Bank, which he founded."
+      },
+      "id": "h002",
+      "options": {
+        "bn": [
+          "গ্রামীণ ব্যাংক",
+          "ব্র্যাক",
+          "ইউনিসেফ",
+          "বিশ্বব্যাংক"
+        ],
+        "en": [
+          "Grameen Bank",
+          "BRAC",
+          "UNICEF",
+          "The World Bank"
+        ]
+      },
+      "q": {
+        "bn": "ড. মুহাম্মদ ইউনূস ২০০৬ সালের নোবেল শান্তি পুরস্কার ___ এর সঙ্গে ভাগ করে নেন।",
+        "en": "Dr. Muhammad Yunus shared the 2006 Nobel Peace Prize with ___."
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 2,
+      "explain": {
+        "bn": "দরিদ্রদের জামানতবিহীন ক্ষুদ্র ঋণ দেওয়ার মডেল তিনিই প্রথম চালু করেন, যা বহু দেশে অনুসরণ করা হয়।",
+        "en": "He pioneered lending tiny collateral-free loans to the poor, a model copied in many countries."
+      },
+      "id": "h003",
+      "options": {
+        "bn": [
+          "বাণিজ্যিক ব্যাংকিং",
+          "শেয়ার ব্যবসা",
+          "মোবাইল ব্যাংকিং",
+          "ক্ষুদ্রঋণ"
+        ],
+        "en": [
+          "Commercial banking",
+          "Stock trading",
+          "Mobile banking",
+          "Microcredit"
+        ]
+      },
+      "q": {
+        "bn": "ড. মুহাম্মদ ইউনূস ___ এর পথিকৃৎ হিসেবে পরিচিত।",
+        "en": "Dr. Muhammad Yunus is known as the pioneer of ___."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 1,
+      "explain": {
+        "bn": "ড. মুহাম্মদ ইউনূস ২০০৬ সালে প্রথম বাংলাদেশি হিসেবে নোবেল পুরস্কার লাভ করেন।",
+        "en": "Dr. Muhammad Yunus became the first Bangladeshi Nobel laureate in 2006."
+      },
+      "id": "h004",
+      "options": {
+        "bn": [
+          "বেগম সুফিয়া কামাল",
+          "ড. মুহাম্মদ ইউনূস",
+          "স্যার ফজলে হাসান আবেদ",
+          "জয়নুল আবেদিন"
+        ],
+        "en": [
+          "Begum Sufia Kamal",
+          "Dr. Muhammad Yunus",
+          "Sir Fazle Hasan Abed",
+          "Zainul Abedin"
+        ]
+      },
+      "q": {
+        "bn": "প্রথম বাংলাদেশি হিসেবে নোবেল পুরস্কার পান কে?",
+        "en": "Who was the first Bangladeshi to win a Nobel Prize?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 1,
+      "explain": {
+        "bn": "মুসা ইব্রাহীম ২০১০ সালের ২৩ মে এভারেস্টের চূড়ায় পৌঁছে সেখানে বাংলাদেশের পতাকা ওড়ান।",
+        "en": "Musa Ibrahim reached the summit on 23 May 2010 and hoisted the Bangladeshi flag there."
+      },
+      "id": "h005",
+      "options": {
+        "bn": [
+          "মুসা ইব্রাহীম",
+          "ওয়াসফিয়া নাজরীন",
+          "নিশাত মজুমদার",
+          "এম এ মুহিত"
+        ],
+        "en": [
+          "Musa Ibrahim",
+          "Wasfia Nazreen",
+          "Nishat Majumder",
+          "MA Muhit"
+        ]
+      },
+      "q": {
+        "bn": "প্রথম বাংলাদেশি হিসেবে এভারেস্টের চূড়ায় ওঠেন কে?",
+        "en": "Who was the first Bangladeshi to summit Mount Everest?"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 2,
+      "explain": {
+        "bn": "নিশাত মজুমদার ২০১২ সালের ১৯ মে এভারেস্ট জয় করেন — প্রথম বাংলাদেশি নারী হিসেবে।",
+        "en": "Nishat Majumder summited Everest on 19 May 2012, the first Bangladeshi woman to do so."
+      },
+      "id": "h006",
+      "options": {
+        "bn": [
+          "ওয়াসফিয়া নাজরীন",
+          "সুফিয়া খাতুন",
+          "শারমিন আক্তার",
+          "নিশাত মজুমদার"
+        ],
+        "en": [
+          "Wasfia Nazreen",
+          "Sufia Khatun",
+          "Sharmin Akter",
+          "Nishat Majumder"
+        ]
+      },
+      "q": {
+        "bn": "প্রথম বাংলাদেশি নারী হিসেবে এভারেস্ট জয় করেন কে?",
+        "en": "Who was the first Bangladeshi woman to summit Mount Everest?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 2,
+      "explain": {
+        "bn": "ওয়াসফিয়া নাজরীন প্রতিটি মহাদেশের সর্বোচ্চ শৃঙ্গ জয় করেন; ২০১৫ সালের ১৮ নভেম্বর তাঁর অভিযান শেষ হয়।",
+        "en": "Wasfia Nazreen climbed the highest peak on each continent, finishing on 18 November 2015."
+      },
+      "id": "h007",
+      "options": {
+        "bn": [
+          "মুসা ইব্রাহীম",
+          "নিশাত মজুমদার",
+          "ওয়াসফিয়া নাজরীন",
+          "বাবর আলী"
+        ],
+        "en": [
+          "Musa Ibrahim",
+          "Nishat Majumder",
+          "Wasfia Nazreen",
+          "Babar Ali"
+        ]
+      },
+      "q": {
+        "bn": "প্রথম বাংলাদেশি হিসেবে সেভেন সামিট (সাত মহাদেশের সর্বোচ্চ শৃঙ্গ) জয় করেন কে?",
+        "en": "Who was the first Bangladeshi to complete the Seven Summits?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 1,
+      "explain": {
+        "bn": "মুক্তিযুদ্ধের পর ত্রাণ প্রকল্প হিসেবে ১৯৭২ সালে ব্র্যাক প্রতিষ্ঠা করেন স্যার ফজলে হাসান আবেদ।",
+        "en": "Sir Fazle Hasan Abed founded BRAC in 1972 as a relief project after the Liberation War."
+      },
+      "id": "h008",
+      "options": {
+        "bn": [
+          "ড. মুহাম্মদ ইউনূস",
+          "স্যার ফজলে হাসান আবেদ",
+          "ফজলুর রহমান খান",
+          "মুহাম্মদ শহীদুল্লাহ"
+        ],
+        "en": [
+          "Dr. Muhammad Yunus",
+          "Sir Fazle Hasan Abed",
+          "Fazlur Rahman Khan",
+          "Dr. Muhammad Shahidullah"
+        ]
+      },
+      "q": {
+        "bn": "১৯৭২ সালে ব্র্যাক প্রতিষ্ঠা করেন কে?",
+        "en": "Who founded BRAC in 1972?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 3,
+      "explain": {
+        "bn": "ব্র্যাক কর্মীসংখ্যার দিক থেকে বিশ্বের বৃহত্তম বেসরকারি উন্নয়ন সংস্থায় পরিণত হয়েছে।",
+        "en": "BRAC grew into the largest non-governmental development organisation in the world by number of employees."
+      },
+      "id": "h009",
+      "options": {
+        "bn": [
+          "বিশ্বের বৃহত্তম এনজিও",
+          "একটি বাণিজ্যিক ব্যাংক",
+          "একটি রাজনৈতিক দল",
+          "একটি চলচ্চিত্র স্টুডিও"
+        ],
+        "en": [
+          "The world's largest NGO",
+          "A commercial bank",
+          "A political party",
+          "A film studio"
+        ]
+      },
+      "q": {
+        "bn": "স্যার ফজলে হাসান আবেদের প্রতিষ্ঠিত ব্র্যাক ___ হিসেবে পরিচিত।",
+        "en": "BRAC, founded by Sir Fazle Hasan Abed, is known as ___."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "বিপ্লবী লেখনীর জন্য তিনি \"বিদ্রোহী কবি\" উপাধি পান।",
+        "en": "His revolutionary writings earned him the title Bidrohi Kobi, the Rebel Poet."
+      },
+      "id": "h011",
+      "options": {
+        "bn": [
+          "পল্লীকবি",
+          "বিদ্রোহী কবি",
+          "দুখু মিঞা",
+          "শিল্পাচার্য"
+        ],
+        "en": [
+          "Pollikobi",
+          "Bidrohi Kobi (Rebel Poet)",
+          "Dukhu Mia",
+          "Shilpacharya"
+        ]
+      },
+      "q": {
+        "bn": "কাজী নজরুল ইসলাম ___ নামে পরিচিত।",
+        "en": "Kazi Nazrul Islam is known as the ___."
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 3,
+      "explain": {
+        "bn": "তাঁর ১৯২২ সালের কবিতা \"বিদ্রোহী\" তাঁকে বিদ্রোহী কবি নাম এনে দেয়।",
+        "en": "His 1922 poem \"Bidrohi\" (The Rebel) gave him the name Bidrohi Kobi."
+      },
+      "id": "h012",
+      "options": {
+        "bn": [
+          "সোনার তরী",
+          "ছাড়পত্র",
+          "বিদ্রোহী",
+          "নকশী কাঁথার মাঠ"
+        ],
+        "en": [
+          "Sonar Tori",
+          "Chharpatra",
+          "Bidrohi",
+          "Nakshi Kanthar Math"
+        ]
+      },
+      "q": {
+        "bn": "কোন কবিতা কাজী নজরুল ইসলামকে বিদ্রোহী কবি উপাধি এনে দেয়?",
+        "en": "Which poem earned Kazi Nazrul Islam the title of Rebel Poet?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "১৯০৫ সালে লেখা \"সুলতানার স্বপ্ন\" বিশ্বের প্রাচীনতম নারীবাদী কল্পবিজ্ঞান গল্পগুলোর একটি।",
+        "en": "Written in 1905, \"Sultana's Dream\" is one of the earliest feminist science-fiction stories in the world."
+      },
+      "id": "h013",
+      "options": {
+        "bn": [
+          "১৯০৫",
+          "১৯২৫",
+          "১৯৪৭",
+          "১৮৮০"
+        ],
+        "en": [
+          "1905",
+          "1925",
+          "1947",
+          "1880"
+        ]
+      },
+      "q": {
+        "bn": "বেগম রোকেয়া \"সুলতানার স্বপ্ন\" লেখেন ___ সালে।",
+        "en": "Begum Rokeya wrote \"Sultana's Dream\" in ___."
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "তিনি মেয়েদের শিক্ষার জন্য প্রচারণা চালান এবং নারীর সমতার পক্ষে সাহসী লেখা লেখেন।",
+        "en": "She campaigned for girls' education and wrote boldly for women's equality."
+      },
+      "id": "h014",
+      "options": {
+        "bn": [
+          "শাস্ত্রীয় সংগীত",
+          "পারমাণবিক বিজ্ঞান",
+          "নারীশিক্ষা ও নারীবাদী লেখালেখি",
+          "ক্রিকেট প্রশিক্ষণ"
+        ],
+        "en": [
+          "Classical music",
+          "Nuclear science",
+          "Women's education and feminist writing",
+          "Cricket coaching"
+        ]
+      },
+      "q": {
+        "bn": "বেগম রোকেয়া ___ এর অগ্রদূত হিসেবে সম্মানিত।",
+        "en": "Begum Rokeya is celebrated as a pioneer of ___."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "৯ ডিসেম্বর বেগম রোকেয়ার জন্ম ও মৃত্যু — দুটোই; এই দিন রোকেয়া দিবস পালিত হয়।",
+        "en": "9 December is both Begum Rokeya's birthday and death anniversary, observed as Rokeya Day."
+      },
+      "id": "h015",
+      "options": {
+        "bn": [
+          "৮ মার্চ",
+          "৯ ডিসেম্বর",
+          "১৪ ফেব্রুয়ারি",
+          "২১ ফেব্রুয়ারি"
+        ],
+        "en": [
+          "8 March",
+          "9 December",
+          "14 February",
+          "21 February"
+        ]
+      },
+      "q": {
+        "bn": "রোকেয়া দিবস পালিত হয় প্রতিবছর ___।",
+        "en": "Rokeya Day is observed every year on ___."
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 2,
+      "explain": {
+        "bn": "মহান চিত্রশিল্পী জয়নুল আবেদিন \"শিল্পাচার্য\" (মহান শিল্পগুরু) উপাধিতে ভূষিত হন।",
+        "en": "Zainul Abedin, the great painter, received the title Shilpacharya (Great Teacher of Arts)."
+      },
+      "id": "h016",
+      "options": {
+        "bn": [
+          "এস এম সুলতান",
+          "নভেরা আহমেদ",
+          "হামিদুর রহমান",
+          "জয়নুল আবেদিন"
+        ],
+        "en": [
+          "S.M. Sultan",
+          "Novera Ahmed",
+          "Hamidur Rahman",
+          "Zainul Abedin"
+        ]
+      },
+      "q": {
+        "bn": "কোন শিল্পী \"শিল্পাচার্য\" উপাধিতে ভূষিত হয়েছেন?",
+        "en": "Which artist is honoured with the title \"Shilpacharya\"?"
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 3,
+      "explain": {
+        "bn": "১৯৪৩-এর দুর্ভিক্ষপীড়িত মানুষের করুণ স্কেচ তাঁকে জাতীয় খ্যাতি এনে দেয়।",
+        "en": "His stark sketches of the 1943 famine victims brought him national fame."
+      },
+      "id": "h017",
+      "options": {
+        "bn": [
+          "১৯৭১-এর যুদ্ধ",
+          "১৯৪৩-এর বাংলার দুর্ভিক্ষ",
+          "গ্রামের মেলা",
+          "সুন্দরবন"
+        ],
+        "en": [
+          "The 1971 war",
+          "The Bengal famine of 1943",
+          "Village fairs",
+          "The Sundarbans"
+        ]
+      },
+      "q": {
+        "bn": "জয়নুল আবেদিনের বিখ্যাত প্রথম দিকের স্কেচগুলোতে ফুটে উঠেছে ___।",
+        "en": "Zainul Abedin's famous early sketches depicted ___."
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 1,
+      "explain": {
+        "bn": "বঙ্গবন্ধু নামে পরিচিত শেখ মুজিবুর রহমান জাতির পিতা হিসেবে সম্মানিত।",
+        "en": "Sheikh Mujibur Rahman, called Bangabandhu, is honoured as the Father of the Nation."
+      },
+      "id": "h018",
+      "options": {
+        "bn": [
+          "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+          "তাজউদ্দীন আহমদ",
+          "এ.কে. ফজলুল হক",
+          "জেনারেল ওসমানী"
+        ],
+        "en": [
+          "Bangabandhu Sheikh Mujibur Rahman",
+          "Tajuddin Ahmad",
+          "A.K. Fazlul Huq",
+          "General Osmani"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের জাতির পিতা হিসেবে পরিচিত কে?",
+        "en": "Who is known as the Father of the Nation of Bangladesh?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 3,
+      "explain": {
+        "bn": "২০১৭ সালে ইউনেস্কো ১৯৭১ সালের ৭ মার্চের ভাষণকে মেমরি অব দ্য ওয়ার্ল্ড রেজিস্টারে অন্তর্ভুক্ত করে।",
+        "en": "UNESCO inscribed the 7 March 1971 speech in its Memory of the World Register in 2017."
+      },
+      "id": "h019",
+      "options": {
+        "bn": [
+          "বিশ্ব ঐতিহ্য তালিকা",
+          "অধরা ঐতিহ্য তালিকা",
+          "মেমরি অব দ্য ওয়ার্ল্ড রেজিস্টার",
+          "সৃজনশীল শহর তালিকা"
+        ],
+        "en": [
+          "World Heritage List",
+          "Intangible Heritage List",
+          "Memory of the World Register",
+          "Creative Cities List"
+        ]
+      },
+      "q": {
+        "bn": "বঙ্গবন্ধুর ঐতিহাসিক ৭ মার্চের ভাষণ ইউনেস্কোর ___ তালিকাভুক্ত।",
+        "en": "Bangabandhu's historic 7th March speech is listed by UNESCO in the ___."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "১৯৭১ সালে মুজিবনগর সরকারের প্রথম প্রধানমন্ত্রী ছিলেন তাজউদ্দীন আহমদ।",
+        "en": "Tajuddin Ahmad led the Mujibnagar government as the first Prime Minister in 1971."
+      },
+      "id": "h020",
+      "options": {
+        "bn": [
+          "সৈয়দ নজরুল ইসলাম",
+          "তাজউদ্দীন আহমদ",
+          "খন্দকার মোশতাক আহমদ",
+          "জিয়াউর রহমান"
+        ],
+        "en": [
+          "Syed Nazrul Islam",
+          "Tajuddin Ahmad",
+          "Khondaker Mostaq Ahmad",
+          "Ziaur Rahman"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশের প্রথম প্রধানমন্ত্রী কে ছিলেন?",
+        "en": "Who was the first Prime Minister of Bangladesh?"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 2,
+      "explain": {
+        "bn": "১৯৭১ সালে জেনারেল মুহাম্মদ আতাউল গনি ওসমানী বাংলাদেশ সশস্ত্র বাহিনীর সর্বাধিনায়ক নিযুক্ত হন।",
+        "en": "General Muhammad Ataul Goni Osmani was appointed Commander-in-Chief of the Bangladesh Armed Forces in 1971."
+      },
+      "id": "h021",
+      "options": {
+        "bn": [
+          "খালেদ মোশাররফ",
+          "জিয়াউর রহমান",
+          "শফিউল্লাহ",
+          "জেনারেল এম.এ.জি. ওসমানী"
+        ],
+        "en": [
+          "Khaled Mosharraf",
+          "Ziaur Rahman",
+          "K.M. Shafiullah",
+          "General M.A.G. Osmani"
+        ]
+      },
+      "q": {
+        "bn": "১৯৭১ সালে মুক্তিবাহিনীর সর্বাধিনায়ক কে ছিলেন?",
+        "en": "Who was the Commander-in-Chief of the Mukti Bahini in 1971?"
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "সাতজন মুক্তিযোদ্ধা দেশের সর্বোচ্চ সামরিক বীরত্ব পদক বীরশ্রেষ্ঠ লাভ করেন।",
+        "en": "Seven freedom fighters received the Bir Shreshtha, the nation's highest military gallantry award."
+      },
+      "id": "h022",
+      "options": {
+        "bn": [
+          "৫",
+          "৬",
+          "৭",
+          "১১"
+        ],
+        "en": [
+          "5",
+          "6",
+          "7",
+          "11"
+        ]
+      },
+      "q": {
+        "bn": "বীরশ্রেষ্ঠ খেতাব পেয়েছেন কতজন?",
+        "en": "How many Bir Shreshtha gallantry awards have been given?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "বীরশ্রেষ্ঠ বাংলাদেশের সর্বোচ্চ সামরিক বীরত্ব পদক।",
+        "en": "Bir Shreshtha is the highest military award for bravery in Bangladesh."
+      },
+      "id": "h023",
+      "options": {
+        "bn": [
+          "সর্বোচ্চ সামরিক",
+          "দ্বিতীয় সর্বোচ্চ বেসামরিক",
+          "সর্বোচ্চ বেসামরিক",
+          "পুলিশ সেবা"
+        ],
+        "en": [
+          "Highest military",
+          "Second-highest civilian",
+          "Highest civilian",
+          "Police service"
+        ]
+      },
+      "q": {
+        "bn": "বীরশ্রেষ্ঠ বাংলাদেশের ___ বীরত্ব পদক।",
+        "en": "Bir Shreshtha is Bangladesh's ___ gallantry award."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "মুক্তিযুদ্ধে ছেলেকে হারানো জাহানারা ইমাম \"শহীদ জননী\" নামে পরিচিত হন।",
+        "en": "Jahanara Imam, who lost her son in the Liberation War, became known as Shaheed Janani."
+      },
+      "id": "h024",
+      "options": {
+        "bn": [
+          "পল্লীকবি",
+          "শহীদ জননী",
+          "শিল্পাচার্য",
+          "বিদ্রোহী কবি"
+        ],
+        "en": [
+          "Pollikobi",
+          "Shaheed Janani (Mother of Martyrs)",
+          "Shilpacharya",
+          "Bidrohi Kobi"
+        ]
+      },
+      "q": {
+        "bn": "জাহানারা ইমাম ___ নামে স্মরণীয়।",
+        "en": "Jahanara Imam is remembered as ___."
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 3,
+      "explain": {
+        "bn": "\"একাত্তরের দিনগুলি\" গ্রন্থে তিনি যুদ্ধকালীন পারিবারিক অভিজ্ঞতা লিপিবদ্ধ করেছেন।",
+        "en": "\"Ekattorer Dinguli\" (Days of '71) records her family's experiences during the war."
+      },
+      "id": "h025",
+      "options": {
+        "bn": [
+          "আমি বীরাঙ্গনা বলছি",
+          "একাত্তরের চিঠি",
+          "মুক্তিযুদ্ধের ইতিহাস",
+          "একাত্তরের দিনগুলি"
+        ],
+        "en": [
+          "Ami Birangana Bolchi",
+          "Ekattorer Chithi",
+          "Muktijuddher Itihash",
+          "Ekattorer Dinguli"
+        ]
+      },
+      "q": {
+        "bn": "জাহানারা ইমামের মুক্তিযুদ্ধভিত্তিক বিখ্যাত স্মৃতিকথা কোনটি?",
+        "en": "Jahanara Imam's famous memoir of the Liberation War is ___."
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 1,
+      "explain": {
+        "bn": "নির্ভীক রাজনীতির জন্য আবুল কাসেম ফজলুল হক \"শেরে বাংলা\" উপাধি পান।",
+        "en": "Abul Kasem Fazlul Huq earned the title Sher-e-Bangla (Tiger of Bengal) for his fearless politics."
+      },
+      "id": "h026",
+      "options": {
+        "bn": [
+          "শেরে বাংলা",
+          "বঙ্গবন্ধু",
+          "মজলুম জননেতা",
+          "দেশনায়ক"
+        ],
+        "en": [
+          "Sher-e-Bangla",
+          "Bangabandhu",
+          "Majlum Jananeta",
+          "Deshnayak"
+        ]
+      },
+      "q": {
+        "bn": "এ.কে. ফজলুল হক ___ নামে জনপ্রিয়।",
+        "en": "A.K. Fazlul Huq is popularly known as ___."
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 3,
+      "explain": {
+        "bn": "তিনি ১৯৪০ সালের লাহোর প্রস্তাব উত্থাপন করেন, যাতে উপমহাদেশে মুসলমানদের জন্য স্বাধীন রাষ্ট্র দাবি করা হয়।",
+        "en": "He moved the Lahore Resolution of 1940, which demanded independent states for Muslims in the subcontinent."
+      },
+      "id": "h027",
+      "options": {
+        "bn": [
+          "১৯৩৫",
+          "১৯৪৭",
+          "১৯৪০",
+          "১৯৭১"
+        ],
+        "en": [
+          "1935",
+          "1947",
+          "1940",
+          "1971"
+        ]
+      },
+      "q": {
+        "bn": "এ.কে. ফজলুল হক ঐতিহাসিক লাহোর প্রস্তাব উত্থাপন করেন ___ সালে।",
+        "en": "A.K. Fazlul Huq presented the historic Lahore Resolution in ___."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 2,
+      "explain": {
+        "bn": "কৃষক ও দরিদ্রের পক্ষে লড়ে ভাসানী \"মজলুম জননেতা\" নামে পরিচিত হন।",
+        "en": "Bhashani championed peasants and the poor, earning the name Majlum Jananeta."
+      },
+      "id": "h028",
+      "options": {
+        "bn": [
+          "শেরে বাংলা",
+          "মজলুম জননেতা",
+          "বঙ্গবীর",
+          "দেশবন্ধু"
+        ],
+        "en": [
+          "Sher-e-Bangla",
+          "Majlum Jananeta (Leader of the Oppressed)",
+          "Bangabir",
+          "Deshbandhu"
+        ]
+      },
+      "q": {
+        "bn": "মওলানা আবদুল হামিদ খান ভাসানী ___ নামে পরিচিত।",
+        "en": "Maulana Abdul Hamid Khan Bhashani is known as ___."
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 1,
+      "explain": {
+        "bn": "গ্রামবাংলা নিয়ে লেখার জন্য জসীমউদ্দীন \"পল্লীকবি\" নামে ভালোবাসা পান।",
+        "en": "Jasimuddin wrote about rural Bengal and is loved as the Pollikobi, the rural poet."
+      },
+      "id": "h029",
+      "options": {
+        "bn": [
+          "কাজী নজরুল ইসলাম",
+          "সুকান্ত ভট্টাচার্য",
+          "মাইকেল মধুসূদন দত্ত",
+          "জসীমউদ্দীন"
+        ],
+        "en": [
+          "Kazi Nazrul Islam",
+          "Sukanta Bhattacharya",
+          "Michael Madhusudan Dutt",
+          "Jasimuddin"
+        ]
+      },
+      "q": {
+        "bn": "কোন কবি \"পল্লীকবি\" নামে পরিচিত?",
+        "en": "Which poet is known as \"Pollikobi\"?"
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 3,
+      "explain": {
+        "bn": "\"নকশী কাঁথার মাঠ\" (১৯২৯) রূপাই-সাজুর করুণ প্রেমকাহিনি বলে।",
+        "en": "\"Nakshi Kanthar Math\" (1929) tells the tragic love story of Rupai and Saju."
+      },
+      "id": "h030",
+      "options": {
+        "bn": [
+          "নকশী কাঁথার মাঠ",
+          "সোনার তরী",
+          "বিদ্রোহী",
+          "ছাড়পত্র"
+        ],
+        "en": [
+          "Nakshi Kanthar Math",
+          "Sonar Tori",
+          "Bidrohi",
+          "Chharpatra"
+        ]
+      },
+      "q": {
+        "bn": "জসীমউদ্দীনের বিখ্যাত কাহিনিকাব্য কোনটি?",
+        "en": "Jasimuddin's famous narrative poem is ___."
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 2,
+      "explain": {
+        "bn": "সুফিয়া কামাল ছিলেন প্রিয় কবি, যিনি নারী অধিকার আন্দোলনেও নেতৃত্ব দেন।",
+        "en": "Sufia Kamal was a beloved poet who also led movements for women's rights."
+      },
+      "id": "h031",
+      "options": {
+        "bn": [
+          "একজন ক্রিকেটার",
+          "একজন পর্বতারোহী",
+          "একজন কবি ও নারী অধিকার কর্মী",
+          "একজন চলচ্চিত্র পরিচালক"
+        ],
+        "en": [
+          "A cricketer",
+          "A mountaineer",
+          "A poet and women's rights activist",
+          "A film director"
+        ]
+      },
+      "q": {
+        "bn": "বেগম সুফিয়া কামাল ___ হিসেবে স্মরণীয়।",
+        "en": "Begum Sufia Kamal is remembered as ___."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 3,
+      "explain": {
+        "bn": "স্থপতি হামিদুর রহমানের সঙ্গে কেন্দ্রীয় শহীদ মিনারের নকশা করেন নভেরা আহমেদ।",
+        "en": "Novera Ahmed designed the Central Shaheed Minar together with architect Hamidur Rahman."
+      },
+      "id": "h032",
+      "options": {
+        "bn": [
+          "জয়নুল আবেদিন",
+          "নভেরা আহমেদ",
+          "এস এম সুলতান",
+          "মোস্তফা মনোয়ার"
+        ],
+        "en": [
+          "Zainul Abedin",
+          "Novera Ahmed",
+          "S.M. Sultan",
+          "Mustafa Monwar"
+        ]
+      },
+      "q": {
+        "bn": "ঢাকার কেন্দ্রীয় শহীদ মিনারের সহ-নকশাকার কোন ভাস্কর?",
+        "en": "Which sculptor co-designed the Central Shaheed Minar in Dhaka?"
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 2,
+      "explain": {
+        "bn": "এস এম সুলতান পেশীবহুল কৃষক, গ্রামীণ জীবন ও বাংলার পল্লীপ্রকৃতির ছবি এঁকেছেন।",
+        "en": "S.M. Sultan painted muscular farmers, village life and rural landscapes of Bengal."
+      },
+      "id": "h033",
+      "options": {
+        "bn": [
+          "নগরজীবন",
+          "মুক্তিযুদ্ধ",
+          "মুঘল দরবার",
+          "গ্রামবাংলার জীবন"
+        ],
+        "en": [
+          "City life",
+          "The Liberation War",
+          "Mughal courts",
+          "Rural Bengal life"
+        ]
+      },
+      "q": {
+        "bn": "এস এম সুলতানের চিত্রকর্ম ___ চিত্রায়ণের জন্য বিখ্যাত।",
+        "en": "S.M. Sultan's paintings are famous for depicting ___."
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 2,
+      "explain": {
+        "bn": "ঔপন্যাসিক হুমায়ূন আহমেদ সৃষ্টি করেন খালি পায়ের হিমু ও যুক্তিবাদী অধ্যাপক মিসির আলি চরিত্র।",
+        "en": "The novelist Humayun Ahmed created Himu, the barefoot wanderer, and Misir Ali, the rationalist professor."
+      },
+      "id": "h034",
+      "options": {
+        "bn": [
+          "হিমু ও মিসির আলি",
+          "ফেলুদা ও তোপসে",
+          "কাকাবাবু ও সন্তু",
+          "মিতু ও রাকা"
+        ],
+        "en": [
+          "Himu and Misir Ali",
+          "Feluda and Topshe",
+          "Kakababu and Santu",
+          "Mitu and Raka"
+        ]
+      },
+      "q": {
+        "bn": "হুমায়ূন আহমেদের সৃষ্ট জনপ্রিয় চরিত্র ___।",
+        "en": "Humayun Ahmed created the beloved characters ___."
+      }
+    },
+    {
+      "answer": 2,
+      "difficulty": 1,
+      "explain": {
+        "bn": "রুনা লায়লা বাংলাদেশের অন্যতম বিখ্যাত গায়িকা; তাঁর ক্যারিয়ার কয়েক দশকের।",
+        "en": "Runa Laila is one of the most famous singers of Bangladesh, with a career spanning decades."
+      },
+      "id": "h035",
+      "options": {
+        "bn": [
+          "ক্রিকেটার",
+          "চিত্রশিল্পী",
+          "গায়িকা",
+          "ঔপন্যাসিক"
+        ],
+        "en": [
+          "Cricketer",
+          "Painter",
+          "Singer",
+          "Novelist"
+        ]
+      },
+      "q": {
+        "bn": "রুনা লায়লা একজন খ্যাতিমান ___।",
+        "en": "Runa Laila is a celebrated ___."
+      }
+    },
+    {
+      "answer": 1,
+      "difficulty": 1,
+      "explain": {
+        "bn": "সাকিব আল হাসান আন্তর্জাতিক ক্রিকেটে বিশ্বের এক নম্বর অলরাউন্ডার হয়েছেন।",
+        "en": "Shakib Al Hasan has ranked as the world's number one all-rounder in international cricket."
+      },
+      "id": "h036",
+      "options": {
+        "bn": [
+          "ফাস্ট বোলার",
+          "অলরাউন্ডার",
+          "উইকেটকিপার",
+          "আম্পায়ার"
+        ],
+        "en": [
+          "Fast bowler",
+          "All-rounder",
+          "Wicket-keeper",
+          "Umpire"
+        ]
+      },
+      "q": {
+        "bn": "সাকিব আল হাসান ক্রিকেটে বিশ্ববিখ্যাত ___ হিসেবে।",
+        "en": "Shakib Al Hasan is world-famous as a cricket ___."
+      }
+    },
+    {
+      "answer": 3,
+      "difficulty": 1,
+      "explain": {
+        "bn": "১৯৯০-এর দশকে সালমান শাহ হার্টথ্রব চলচ্চিত্র তারকা হন এবং আজও সাংস্কৃতিক আইকন।",
+        "en": "Salman Shah became a heartthrob film star in the 1990s and remains a cultural icon."
+      },
+      "id": "h037",
+      "options": {
+        "bn": [
+          "ক্রিকেটার",
+          "গায়ক",
+          "টেলিভিশন উপস্থাপক",
+          "চলচ্চিত্র অভিনেতা"
+        ],
+        "en": [
+          "Cricketer",
+          "Singer",
+          "Television host",
+          "Film actor"
+        ]
+      },
+      "q": {
+        "bn": "সালমান শাহ ১৯৯০-এর দশকের আইকনিক ___ হিসেবে স্মরণীয়।",
+        "en": "Salman Shah is remembered as an iconic ___ of the 1990s."
+      }
+    },
+    {
+      "answer": 0,
+      "difficulty": 3,
+      "explain": {
+        "bn": "২০০৮ সালে ডিজিটাল ডোমেইনে তৈরি ফ্লুইড সিমুলেশন পদ্ধতির জন্য তিনি একাডেমির বৈজ্ঞানিক ও প্রকৌশল পুরস্কার পান।",
+        "en": "In 2008 he received the Academy's Scientific and Engineering Award for the fluid simulation system developed at Digital Domain."
+      },
+      "id": "h038",
+      "options": {
+        "bn": [
+          "ফ্লুইড সিমুলেশন সফটওয়্যার",
+          "অ্যানিমেটেড ছবি পরিচালনা",
+          "বাংলাদেশ নিয়ে তথ্যচিত্র",
+          "মিউজিক্যালের সাউন্ড ডিজাইন"
+        ],
+        "en": [
+          "Fluid simulation software",
+          "Directing an animated feature",
+          "A documentary on Bangladesh",
+          "Sound design for a musical"
+        ]
+      },
+      "q": {
+        "bn": "বাংলাদেশি বংশোদ্ভূত প্রথম অস্কারজয়ী নাফিস বিন জাফর অস্কার পান ___ এর জন্য।",
+        "en": "Nafees Bin Zafar, the first person of Bangladeshi origin to win an Academy Award (Oscar), won it for ___."
+      }
+    }
+  ]
+}
