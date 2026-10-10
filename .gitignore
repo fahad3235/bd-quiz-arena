@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# local test artifacts (kept outside the repo)
+*.log
